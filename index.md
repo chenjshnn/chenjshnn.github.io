@@ -1,7 +1,7 @@
 ---
 title: About me
 feature_text: |
-  <image max-height="15px" max-width="15px" src="/files/avatar.jpg" style="border-radius: 50%;" /> <br>
+  <image max-height="15dp" max-width="15dp" src="/files/avatar.jpg" style="border-radius: 50%;" /> <br>
   ## Jieshan Chen 
   Ph.D. student in ANU
 feature_image: "https://picsum.photos/1300/400?image=989"
