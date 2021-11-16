@@ -20,8 +20,8 @@ I am a PhD student in computer science in the Australian National University. My
 
 ## Publications
 
-[CHI'22] **Towards Complete Icon Labeling in Mobile Applications** \\
-To appear. Acceptance Rate 12.5% (324/2,597)  \\
+[CHI'22] **Towards Complete Icon Labeling in Mobile Applications** <br />
+To appear. Acceptance Rate 12.5% (324/2,597)  <br />
 *Jieshan Chen*, Amanda Swearngin, Jason Wu, Titus Barik, Jeffrey Nichols and Xiaoyi Zhang.
 
 [ESEC/FSE'20] **Object Detection for Graphical User Interface: Old Fashioned or Deep Learning or a Combination?**
