@@ -16,8 +16,8 @@ I am a PhD student in computer science in the Australian National University. My
 
 
 ## News
-- My paper "Towards Complete Icon Labeling in Mobile Applications" accepted to CHI 2022
-- Present "Wireframe-based UI Design Search through Image Autoencoder" at ICSE 2021
+- [2021-11-16] Our paper **"Towards Complete Icon Labeling in Mobile Applications"** accepted to [CHI 2022](https://chi2022.acm.org/)
+- [2021-05-26] Present our paper **"Wireframe-based UI Design Search through Image Autoencoder"** at ICSE 2021
 
 
 ## Publications
@@ -35,7 +35,7 @@ To appear. Acceptance Rate 12.5% (324/2,597)  <br />
 ***Jieshan Chen***, Chunyang Chen, Zhenchang Xing, Xin Xia, Liming Zhu, John Grundy, and Jinshui Wang.
 
 **[ICSE'20] Unblind Your Apps: Predicting Natural-Language Labels for Mobile GUI Components by Deep Learning.** <br />
-ACM SIGSOFT Distinguished Paper Award <br />
+🏆 ACM SIGSOFT Distinguished Paper Award <br />
 [PDF](/files/ICSE2020-predictContent.pdf) · [Talk](https://www.youtube.com/watch?v=zoRu7UOXAeY&list=PLh7v-bsdypMGkREL9PPVczHtaVLlL4P5h&index=5) · [Code](https://github.com/chenjshnn/LabelDroid) · Acceptance Rate 20.9% (129/617) · Cited By 35 <br />
 ***Jieshan Chen***, Chunyang Chen, Zhenchang Xing, Xiwei Xu, Liming Zhu, Guoqiang Li, and Jinshui Wang.
 
