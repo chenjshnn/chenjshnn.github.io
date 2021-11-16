@@ -24,18 +24,18 @@ I am a PhD student in computer science in the Australian National University. My
 To appear. Acceptance Rate 12.5% (324/2,597)  <br />
 *Jieshan Chen*, Amanda Swearngin, Jason Wu, Titus Barik, Jeffrey Nichols and Xiaoyi Zhang.
 
-[ESEC/FSE'20] **Object Detection for Graphical User Interface: Old Fashioned or Deep Learning or a Combination?**
-PDF · Tool · Talk · Code · Acceptance Rate 28% (101/360) · Cited By 23
+[ESEC/FSE'20] **Object Detection for Graphical User Interface: Old Fashioned or Deep Learning or a Combination?** <br />
+PDF · Tool · Talk · Code · Acceptance Rate 28% (101/360) · Cited By 23 <br />
 *Jieshan Chen*, Mulong Xie, Zhenchang Xing, Chunyang Chen, Xiwei Xu, Liming Zhu and Guoqiang Li
 
-[TOSEM'20] **Wireframe-based UI Design Search through Image Autoencoder.**
-PDF · Talk · Code · Cited By 17
+[TOSEM'20] **Wireframe-based UI Design Search through Image Autoencoder.** <br />
+PDF · Talk · Code · Cited By 17 <br />
 *Jieshan Chen*, Chunyang Chen, Zhenchang Xing, Xin Xia, Liming Zhu, John Grundy, and Jinshui Wang.
 
 
-[ICSE'20] **Unblind Your Apps: Predicting Natural-Language Labels for Mobile GUI Components by Deep Learning.**
-ACM SIGSOFT Distinguished Paper Award
-PDF · Talk · GitHub · Acceptance Rate 20.9% (129/617) · Cited By 35
+[ICSE'20] **Unblind Your Apps: Predicting Natural-Language Labels for Mobile GUI Components by Deep Learning.** <br />
+ACM SIGSOFT Distinguished Paper Award <br />
+PDF · Talk · GitHub · Acceptance Rate 20.9% (129/617) · Cited By 35 <br />
 *Jieshan Chen*, Chunyang Chen, Zhenchang Xing, Xiwei Xu, Liming Zhu, Guoqiang Li, and Jinshui Wang.
 
 
