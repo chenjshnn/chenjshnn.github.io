@@ -3,7 +3,7 @@ title: About me
 feature_text: |
   <image max-height="15dp" max-width="15dp" src="/files/avatar.jpg" style="border-radius: 50%;" /> 
   ## Jieshan Chen 
-  Ph.D. student in ANU <br>
+  Ph.D. Student at the Australian National University <br>
   <span color="#f68140">&#9993;</span>  [Jieshan.Chen@anu.edu.au](mailto:Jieshan.Chen@anu.edu.au) · 
   <a  href="https://github.com/chenjshnn" color="#05BF85">GitHub</a> · 
   [Google Scholar](https://scholar.google.com/citations?user=slrzj8kAAAAJ&hl=en)
@@ -11,7 +11,7 @@ feature_image:
 excerpt: "I am a PhD student in computer science in the Australian National University. My work lies in the fields of software engineering, deep learning, and human computer interaction. By understanding the semantics of user interfaces, my work aims to improve designers’, developers’, and end-users’ efficiency when designing, developing and using the mobile applications. I am currently working on android code generation from User Interface (UI) design, UI design search and generation, and mobile application accessibility enhancement." 
 ---
 
-I am a PhD student in computer science in the Australian National University. My advisors are [Zhenchang Xing](https://cecs.anu.edu.au/people/zhenchang-xing) and [Chunyang Chen](https://chunyang-chen.github.io/). My work lies in the fields of software engineering, deep learning, and human computer interaction. By understanding the semantics of user interfaces, my work aims to improve designers’, developers’, and end-users’ efficiency when designing, developing and using the mobile applications. I am currently working on android code generation from User Interface (UI) design, UI design search and generation, and mobile application accessibility enhancement.
+I am a PhD student in computer science at the Australian National University. My advisors are [Zhenchang Xing](https://cecs.anu.edu.au/people/zhenchang-xing) and [Chunyang Chen](https://chunyang-chen.github.io/). My work lies in the fields of software engineering, deep learning, and human computer interaction. By understanding the semantics of user interfaces, my work aims to improve designers’, developers’, and end-users’ efficiency when designing, developing and using the mobile applications. I am currently working on android code generation from User Interface (UI) design, UI design search and generation, and mobile application accessibility enhancement.
 
 
 
