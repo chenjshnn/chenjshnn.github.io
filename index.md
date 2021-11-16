@@ -1,7 +1,7 @@
 ---
 title: About me
 feature_text: |
-  ![avatar](/files/avatar.jpg) <br>
+  <image max-height="20px" max-width="20px" src="/files/avatar.jpg" style="border-radius: 50%;" /> <br>
   ## Jieshan Chen 
   Ph.D. student in ANU <br>
   <span color="#f68140">&#9993;</span>  [Jieshan.Chen@anu.edu.au](mailto:Jieshan.Chen@anu.edu.au) · 
