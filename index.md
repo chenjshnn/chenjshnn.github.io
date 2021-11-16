@@ -1,6 +1,7 @@
 ---
 title: About me
 feature_text: |
+  ![avatar](/files/photo.jpg) <br>
   ## Jieshan Chen 
   Ph.D. student in ANU <br>
   <span color="#f68140">&#9993;</span>  [Jieshan.Chen@anu.edu.au](mailto:Jieshan.Chen@anu.edu.au) - 
