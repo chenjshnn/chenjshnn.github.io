@@ -3,9 +3,9 @@ title: About me
 feature_text: |
   ## Jieshan Chen 
   Ph.D. student in ANU <br>
-  <span color="#f68140">&#9993;</span>  Jieshan.Chen@anu.edu.au <br>
-  :github:  https://github.com/chenjshnn <br>
-  Go
+  <span color="#f68140">&#9993;</span>  [Jieshan.Chen@anu.edu.au](mailto:Jieshan.Chen@anu.edu.au) <br>
+  [Github](https://github.com/chenjshnn) <br>
+  [Google Scholar](https://scholar.google.com/citations?user=slrzj8kAAAAJ&hl=en)
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "I am a PhD student in computer science in the Australian National University. My work lies in the fields of software engineering, deep learning, and human computer interaction. By understanding the semantics of user interfaces, my work aims to improve designers’, developers’, and end-users’ efficiency when designing, developing and using the mobile applications. I am currently working on android code generation from User Interface (UI) design, UI design search and generation, and mobile application accessibility enhancement."
 ---
@@ -37,8 +37,8 @@ ACM SIGSOFT Distinguished Paper Award <br />
 [PDF](/files/ICSE2020-predictContent.pdf) · [Talk](https://www.youtube.com/watch?v=zoRu7UOXAeY&list=PLh7v-bsdypMGkREL9PPVczHtaVLlL4P5h&index=5) · [Code](https://github.com/chenjshnn/LabelDroid) · Acceptance Rate 20.9% (129/617) · Cited By 35 <br />
 ***Jieshan Chen***, Chunyang Chen, Zhenchang Xing, Xiwei Xu, Liming Zhu, Guoqiang Li, and Jinshui Wang.
 
-**[IJCNN'17] Ensemble Application of Convolutional and Recurrent Neural Networks for Multi-label Text Categorization.**
-[PDF](https://ieeexplore.ieee.org/document/7966144/keywords)· Cited By 175
+**[IJCNN'17] Ensemble Application of Convolutional and Recurrent Neural Networks for Multi-label Text Categorization.** <br />
+[PDF](https://ieeexplore.ieee.org/document/7966144/keywords)· Cited By 175  <br />
 Guibin Chen, Deheng Ye, Zhenchang Xing, ***Jieshan Chen***, and Erik Cambria.
 
 
