@@ -2,7 +2,7 @@
 title: About me
 feature_text: |
   ## Jieshan Chen
-  PhD student in CS in ANU
+  Ph.D. student in CS in ANU
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "I am a PhD student in computer science in the Australian National University. My work lies in the fields of software engineering, deep learning, and human computer interaction. By understanding the semantics of user interfaces, my work aims to improve designers’, developers’, and end-users’ efficiency when designing, developing and using the mobile applications. I am currently working on android code generation from User Interface (UI) design, UI design search and generation, and mobile application accessibility enhancement."
 ---
