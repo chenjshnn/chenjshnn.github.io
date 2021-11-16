@@ -96,7 +96,7 @@ lang: en-GB # Set the site language
 title: "Jieshan Chen" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Jieshan Chen" # Site description and default description, also used in jekyll-seo-tag
-url: "https://chenjshnn.github.io" # Site url, also used in jekyll-seo-tag
+url: "https://chenjshnn.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/chenjshnn"
 email: "Jieshan.Chen@anu.edu.au"
