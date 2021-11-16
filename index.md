@@ -24,24 +24,25 @@ I am a PhD student in computer science at the Australian National University. My
 ## Publications
 
 **[CHI'22] Towards Complete Icon Labeling in Mobile Applications** <br />
-To appear. Acceptance Rate 12.5% (324/2,597)  <br />
-***Jieshan Chen***, Amanda Swearngin, Jason Wu, Titus Barik, Jeffrey Nichols and Xiaoyi Zhang.
+***Jieshan Chen***, Amanda Swearngin, Jason Wu, Titus Barik, Jeffrey Nichols and Xiaoyi Zhang. <br />
+To appear. Acceptance Rate 12.5% (324/2,597) 
+
 
 **[ESEC/FSE'20] Object Detection for Graphical User Interface: Old Fashioned or Deep Learning or a Combination?** <br />
-[PDF](/files/FSE2020-UIDetection.pdf) · [Tool Demo](http://uied.online/) · [Talk](https://www.youtube.com/watch?v=KFFp81N6zlg) · [Code](https://github.com/chenjshnn/Object-Detection-for-Graphical-User-Interface) · Acceptance Rate 28% (101/360) · Cited By 23 <br />
-***Jieshan Chen***, Mulong Xie, Zhenchang Xing, Chunyang Chen, Xiwei Xu, Liming Zhu and Guoqiang Li
+***Jieshan Chen***, Mulong Xie, Zhenchang Xing, Chunyang Chen, Xiwei Xu, Liming Zhu and Guoqiang Li <br />
+[PDF](/files/FSE2020-UIDetection.pdf) · [Tool Demo](http://uied.online/) · [Talk](https://www.youtube.com/watch?v=KFFp81N6zlg) · [Code](https://github.com/chenjshnn/Object-Detection-for-Graphical-User-Interface) · Acceptance Rate 28% (101/360) · Cited By 23
 
 **[TOSEM'20] Wireframe-based UI Design Search through Image Autoencoder.** <br />
-[PDF](/files/tosem2020-uisearch.pdf) · [Talk](https://www.youtube.com/watch?v=wF4VDrMpRdo) · [Code](https://github.com/chenjshnn/WAE) · Cited By 17 <br />
-***Jieshan Chen***, Chunyang Chen, Zhenchang Xing, Xin Xia, Liming Zhu, John Grundy, and Jinshui Wang.
+***Jieshan Chen***, Chunyang Chen, Zhenchang Xing, Xin Xia, Liming Zhu, John Grundy, and Jinshui Wang. <br />
+[PDF](/files/tosem2020-uisearch.pdf) · [Talk](https://www.youtube.com/watch?v=wF4VDrMpRdo) · [Code](https://github.com/chenjshnn/WAE) · Cited By 17 
 
 **[ICSE'20] Unblind Your Apps: Predicting Natural-Language Labels for Mobile GUI Components by Deep Learning.** <br />
-🏆 ACM SIGSOFT Distinguished Paper Award <br />
-[PDF](/files/ICSE2020-predictContent.pdf) · [Talk](https://www.youtube.com/watch?v=zoRu7UOXAeY&list=PLh7v-bsdypMGkREL9PPVczHtaVLlL4P5h&index=5) · [Code](https://github.com/chenjshnn/LabelDroid) · Acceptance Rate 20.9% (129/617) · Cited By 35 <br />
-***Jieshan Chen***, Chunyang Chen, Zhenchang Xing, Xiwei Xu, Liming Zhu, Guoqiang Li, and Jinshui Wang.
+***Jieshan Chen***, Chunyang Chen, Zhenchang Xing, Xiwei Xu, Liming Zhu, Guoqiang Li, and Jinshui Wang. <br />
+🏆 ACM SIGSOFT Distinguished Paper Award <br /> 
+[PDF](/files/ICSE2020-predictContent.pdf) · [Talk](https://www.youtube.com/watch?v=zoRu7UOXAeY&list=PLh7v-bsdypMGkREL9PPVczHtaVLlL4P5h&index=5) · [Code](https://github.com/chenjshnn/LabelDroid) · Acceptance Rate 20.9% (129/617) · Cited By 35 
 
 **[IJCNN'17] Ensemble Application of Convolutional and Recurrent Neural Networks for Multi-label Text Categorization.** <br />
-[PDF](https://ieeexplore.ieee.org/document/7966144/keywords)· Cited By 175  <br />
-Guibin Chen, Deheng Ye, Zhenchang Xing, ***Jieshan Chen***, and Erik Cambria.
+Guibin Chen, Deheng Ye, Zhenchang Xing, ***Jieshan Chen***, and Erik Cambria. <br />
+[PDF](https://ieeexplore.ieee.org/document/7966144/keywords)· Cited By 175  
 
 
