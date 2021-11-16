@@ -16,7 +16,7 @@ I am a PhD student in computer science at the Australian National University. My
 
 
 ## News
-- [2021-11-16] Our paper **"Towards Complete Icon Labeling in Mobile Applications"** accepted to [CHI 2022](https://chi2022.acm.org/)
+- [2021-11-16] Our paper **"Towards Complete Icon Labeling in Mobile Applications"** accepted at [CHI 2022](https://chi2022.acm.org/)
 - [2021-05-26] Present our paper **"Wireframe-based UI Design Search through Image Autoencoder"** at ICSE 2021
 
 
