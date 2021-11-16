@@ -3,8 +3,8 @@ title: About me
 feature_text: |
   ## Jieshan Chen 
   Ph.D. student in ANU <br>
-  {% include button.html text="" icon="email" link="#" color="#f68140" %}  Jieshan.Chen@anu.edu.au <br>
-  {% include button.html text="" icon="github" link="https://github.com/chenjshnn" color="#0366d6" %} https://github.com/chenjshnn
+  <span color="#f68140">&#9993;</span>  Jieshan.Chen@anu.edu.au <br>
+  :github:  https://github.com/chenjshnn
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "I am a PhD student in computer science in the Australian National University. My work lies in the fields of software engineering, deep learning, and human computer interaction. By understanding the semantics of user interfaces, my work aims to improve designers’, developers’, and end-users’ efficiency when designing, developing and using the mobile applications. I am currently working on android code generation from User Interface (UI) design, UI design search and generation, and mobile application accessibility enhancement."
 ---
