@@ -1,7 +1,7 @@
 ---
 title: About me
 feature_text: |
-  <image max-height="15dp" max-width="15dp" src="/files/avatar.jpg" style="border-radius: 50%;" /> 
+  <image max-height="15dp" max-width="auto" src="/files/avatar.jpg" style="border-radius: 50%;" /> 
   ## Jieshan Chen 
   Ph.D. Student at the Australian National University <br>
   <span color="#f68140">&#9993;</span>  [Jieshan.Chen@anu.edu.au](mailto:Jieshan.Chen@anu.edu.au) · 
