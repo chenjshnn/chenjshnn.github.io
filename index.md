@@ -4,7 +4,7 @@ feature_text: |
   <image height="auto" max-width="15dp" src="/files/avatar.jpg" style="border-radius: 50%;" /> 
   ## Jieshan Chen 
   Research Scientist at CSIRO's Data61 <br>
-  <span color="#f68140">&#9993;</span>  [Jieshan.Chen@anu.edu.au](mailto:Jieshan.Chen@anu.edu.au) · 
+  <span color="#f68140">&#9993;</span>  [Jieshan.Chen@data61.csiro.au](mailto:Jieshan.Chen@data61.csiro.au) · 
   <a  href="https://github.com/chenjshnn" color="#05BF85">GitHub</a> · 
   [Google Scholar](https://scholar.google.com/citations?user=slrzj8kAAAAJ&hl=en) · 
   [LinkedIn](https://www.linkedin.com/in/jieshan-chen-b27515161/)
