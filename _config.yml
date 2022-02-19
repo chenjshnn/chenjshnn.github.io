@@ -99,7 +99,7 @@ description: "Jieshan Chen" # Site description and default description, also use
 url: "https://chenjshnn.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/chenjshnn"
-email: "Jieshan.Chen@anu.edu.au"
+email: "Jieshan.Chen@data61.csiro.au"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
