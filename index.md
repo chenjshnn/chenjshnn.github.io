@@ -27,12 +27,12 @@ My work lies in the fields of software engineering, deep learning, and human com
 
 **[CHI'22] Towards Complete Icon Labeling in Mobile Applications** <br />
 ***Jieshan Chen***, Amanda Swearngin, Jason Wu, Titus Barik, Jeffrey Nichols and Xiaoyi Zhang. <br />
-To appear. Acceptance Rate 12.5% (324/2,597) 
+[PDF](/files/ICSE_2022_Icon.pdf) · [Talk](https://www.youtube.com/watch?v=3eaTDpBfqQM&ab_channel=ACMSIGCHI) · Acceptance Rate 12.5% (324/2,597) 
 
 
 **[ESEC/FSE'20] Object Detection for Graphical User Interface: Old Fashioned or Deep Learning or a Combination?** <br />
 ***Jieshan Chen***, Mulong Xie, Zhenchang Xing, Chunyang Chen, Xiwei Xu, Liming Zhu and Guoqiang Li <br />
-[PDF](/files/FSE2020-UIDetection.pdf) · [Tool Demo](http://uied.online/) · [Talk](https://www.youtube.com/watch?v=KFFp81N6zlg) · [Code](https://github.com/chenjshnn/Object-Detection-for-Graphical-User-Interface) · Acceptance Rate 28% (101/360) · Cited By 23
+[PDF](/files/FSE2020-UIDetection.pdf) · [Tool Demo](http://uied.online/) · [Talk](https://www.youtube.com/watch?v=KFFp81N6zlg) · [Code](https://github.com/chenjshnn/Object-Detection-for-Graphical-User-Interface) · Acceptance Rate 28% (101/360)
 
 **[TOSEM'20] Wireframe-based UI Design Search through Image Autoencoder.** <br />
 ***Jieshan Chen***, Chunyang Chen, Zhenchang Xing, Xin Xia, Liming Zhu, John Grundy, and Jinshui Wang. <br />
@@ -41,10 +41,10 @@ To appear. Acceptance Rate 12.5% (324/2,597)
 **[ICSE'20] Unblind Your Apps: Predicting Natural-Language Labels for Mobile GUI Components by Deep Learning.** <br />
 ***Jieshan Chen***, Chunyang Chen, Zhenchang Xing, Xiwei Xu, Liming Zhu, Guoqiang Li, and Jinshui Wang. <br />
 🏆 ACM SIGSOFT Distinguished Paper Award <br /> 
-[PDF](/files/ICSE2020-predictContent.pdf) · [Talk](https://www.youtube.com/watch?v=zoRu7UOXAeY&list=PLh7v-bsdypMGkREL9PPVczHtaVLlL4P5h&index=5) · [Code](https://github.com/chenjshnn/LabelDroid) · Acceptance Rate 20.9% (129/617) · Cited By 35 
+[PDF](/files/ICSE2020-predictContent.pdf) · [Talk](https://www.youtube.com/watch?v=zoRu7UOXAeY&list=PLh7v-bsdypMGkREL9PPVczHtaVLlL4P5h&index=5) · [Code](https://github.com/chenjshnn/LabelDroid) · Acceptance Rate 20.9% (129/617)
 
 **[IJCNN'17] Ensemble Application of Convolutional and Recurrent Neural Networks for Multi-label Text Categorization.** <br />
 Guibin Chen, Deheng Ye, Zhenchang Xing, ***Jieshan Chen***, and Erik Cambria. <br />
-[PDF](https://ieeexplore.ieee.org/document/7966144/keywords)· Cited By 175  
+[PDF](https://ieeexplore.ieee.org/document/7966144/keywords)
 
 <a href="https://clustrmaps.com/site/1bnhz" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=0jSi742nBLW1zBplx2X6Hk-w2T5g-tjKJyF38nxa7fU&cl=ffffff"></a>
