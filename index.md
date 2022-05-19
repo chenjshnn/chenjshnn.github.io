@@ -27,7 +27,7 @@ My work lies in the fields of software engineering, deep learning, and human com
 
 **[CHI'22] Towards Complete Icon Labeling in Mobile Applications** <br />
 ***Jieshan Chen***, Amanda Swearngin, Jason Wu, Titus Barik, Jeffrey Nichols and Xiaoyi Zhang. <br />
-[PDF](/files/ICSE_2022_Icon.pdf) · [Talk](https://www.youtube.com/watch?v=3eaTDpBfqQM&ab_channel=ACMSIGCHI) · Acceptance Rate 12.5% (324/2,597) 
+[PDF](/files/CHI_2022_Icon.pdf) · [Talk](https://www.youtube.com/watch?v=3eaTDpBfqQM&ab_channel=ACMSIGCHI) · Acceptance Rate 12.5% (324/2,597) 
 
 
 **[ESEC/FSE'20] Object Detection for Graphical User Interface: Old Fashioned or Deep Learning or a Combination?** <br />
