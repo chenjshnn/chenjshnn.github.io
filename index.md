@@ -25,6 +25,11 @@ My work lies in the fields of software engineering, deep learning, and human com
 
 ## Publications
 
+**[Preprint] Extracting Replayable Interactions from Videos of Mobile App Usage** <br />
+**Jieshan Chen**, Amanda Swearngin, Jason Wu, Titus Barik, Jeffrey Nichols and Xiaoyi Zhang <br />
+July 2022 · [PDF](/files/Preprint_2022_VideoReply.pdf)
+
+
 **[CHI'22] Towards Complete Icon Labeling in Mobile Applications** <br />
 ***Jieshan Chen***, Amanda Swearngin, Jason Wu, Titus Barik, Jeffrey Nichols and Xiaoyi Zhang. <br />
 [PDF](/files/CHI_2022_Icon.pdf) · [Talk](https://www.youtube.com/watch?v=3eaTDpBfqQM&ab_channel=ACMSIGCHI) · Acceptance Rate 12.5% (324/2,597) 
@@ -47,4 +52,28 @@ My work lies in the fields of software engineering, deep learning, and human com
 Guibin Chen, Deheng Ye, Zhenchang Xing, ***Jieshan Chen***, and Erik Cambria. <br />
 [PDF](https://ieeexplore.ieee.org/document/7966144/keywords)
 
+
+## SERVICES
+
+**Program Committee**
+> * IEEE International Symposium on Software Reliability Engineering (ISSRE-22- Industry Track)
+> * ACM CHI Conference on Human Factors in Computing Systems (CHI-22-Computational UI Workshop)
+> * The Mining Software Repositories (MSR-22-Shadow PC)
+
+**Reviewer**
+> * ACM international joint conference on pervasive and ubiquitous computing (UbiComp-22)
+> * International Journal of Human-Computer Interaction (IJHCI-22)
+> * IEEE International Symposium on Software Reliability Engineering (ISSRE-22- Industry Track)
+> * ACM Symposium on User Interface Software and Technology (UIST-22)
+> * IEEE Transactions on Software Engineering (TSE)
+> * ACM CHI Conference on Human Factors in Computing Systems (CHI-22-Computational UI Workshop)
+> * Information and Software Technology (IST Journal-2021)
+> * The Mining Software Repositories (MSR-2021)
+
+
+
 <a href="https://clustrmaps.com/site/1bnhz" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=0jSi742nBLW1zBplx2X6Hk-w2T5g-tjKJyF38nxa7fU&cl=ffffff"></a>
+
+
+
+
