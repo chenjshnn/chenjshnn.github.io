@@ -53,14 +53,14 @@ Guibin Chen, Deheng Ye, Zhenchang Xing, ***Jieshan Chen***, and Erik Cambria. <b
 [PDF](https://ieeexplore.ieee.org/document/7966144/keywords)
 
 
-### SERVICE
+### Service
 
-**Program Committee**
-- IEEE International Symposium on Software Reliability Engineering (ISSRE-22- Industry Track) 
+*Program Committee* <br />
+- IEEE International Symposium on Software Reliability Engineering (ISSRE-22-Industry Track) 
 - ACM CHI Conference on Human Factors in Computing Systems (CHI-22-Computational UI Workshop) 
 - The Mining Software Repositories (MSR-22-Shadow PC)
 
-**Reviewer** <br />
+*Reviewer* <br />
 - ACM international joint conference on pervasive and ubiquitous computing (UbiComp-22) 
 - International Journal of Human-Computer Interaction (IJHCI-22) 
 - IEEE International Symposium on Software Reliability Engineering (ISSRE-22- Industry Track) 
