@@ -19,10 +19,11 @@ My work lies in the fields of software engineering, deep learning, and human com
 
 
 ### News
-- [2022-08-31] Give a talk titled **"Understanding Fairness Issues in Machine Unlearning and Dark Pattern"** at [NIST Workshop on Mitigating AI Bias in Context](https://www.nccoe.nist.gov/get-involved/attend-events/workshop-mitigating-ai-bias-context) 
-- [2022-07-08] Release a preprint version of our work **"Extracting Replayable Interactions from Videos of Mobile App Usage"**
+- [2022-08-31] Gave a talk titled **"Understanding Fairness Issues in Machine Unlearning and Dark Pattern"** at [NIST Workshop on Mitigating AI Bias in Context](https://www.nccoe.nist.gov/get-involved/attend-events/workshop-mitigating-ai-bias-context) 
+- [2022-07-08] Released a preprint version of our work **"Extracting Replayable Interactions from Videos of Mobile App Usage"**
+- [2022-01-10] Joined CSIRO's Data61 as a research scientist
 - [2021-11-16] Our paper **"Towards Complete Icon Labeling in Mobile Applications"** accepted at [CHI 2022](https://chi2022.acm.org/)
-- [2021-05-26] Present our paper **"Wireframe-based UI Design Search through Image Autoencoder"** at ICSE 2021
+- [2021-05-26] Presented our paper **"Wireframe-based UI Design Search through Image Autoencoder"** at ICSE 2021
 
 
 ### Publications
