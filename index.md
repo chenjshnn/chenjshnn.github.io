@@ -44,7 +44,7 @@ July 2022 · [PDF](/files/Preprint_2022_VideoReply.pdf)
 
 **[TOSEM'20] Wireframe-based UI Design Search through Image Autoencoder.** <br />
 ***Jieshan Chen***, Chunyang Chen, Zhenchang Xing, Xin Xia, Liming Zhu, John Grundy, and Jinshui Wang. <br />
-[PDF](/files/tosem2020-uisearch.pdf) · [Talk](https://www.youtube.com/watch?v=wF4VDrMpRdo) · [Code](https://github.com/chenjshnn/WAE) · Cited By 17 
+[PDF](/files/tosem2020-uisearch.pdf) · [Talk](https://www.youtube.com/watch?v=wF4VDrMpRdo) · [Code](https://github.com/chenjshnn/WAE)  
 
 **[ICSE'20] Unblind Your Apps: Predicting Natural-Language Labels for Mobile GUI Components by Deep Learning.** <br />
 ***Jieshan Chen***, Chunyang Chen, Zhenchang Xing, Xiwei Xu, Liming Zhu, Guoqiang Li, and Jinshui Wang. <br />
@@ -73,7 +73,6 @@ Guibin Chen, Deheng Ye, Zhenchang Xing, ***Jieshan Chen***, and Erik Cambria. <b
 · IEEE Transactions on Software Engineering (TSE) <br />
 · Information and Software Technology (IST Journal-2021) <br />
 · The Mining Software Repositories (MSR-2021)
-
 
 
 <a href="https://clustrmaps.com/site/1bnhz" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=0jSi742nBLW1zBplx2X6Hk-w2T5g-tjKJyF38nxa7fU&cl=ffffff"></a>
