@@ -64,12 +64,13 @@ Guibin Chen, Deheng Ye, Zhenchang Xing, ***Jieshan Chen***, and Erik Cambria. <b
 · The Mining Software Repositories (MSR-22-Shadow PC)
 
 **Reviewer** <br />
+· IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR-23) <br />
+· ACM CHI Conference on Human Factors in Computing Systems (CHI-22, CHI-23) <br />
 · ACM international joint conference on pervasive and ubiquitous computing (UbiComp-22) <br />
 · International Journal of Human-Computer Interaction (IJHCI-22) <br />
-· IEEE International Symposium on Software Reliability Engineering (ISSRE-22- Industry Track) <br />
+· IEEE International Symposium on Software Reliability Engineering (ISSRE-22) <br />
 · ACM Symposium on User Interface Software and Technology (UIST-22) <br />
 · IEEE Transactions on Software Engineering (TSE) <br />
-· ACM CHI Conference on Human Factors in Computing Systems (CHI-22-Computational UI Workshop)<br />
 · Information and Software Technology (IST Journal-2021) <br />
 · The Mining Software Repositories (MSR-2021)
 
