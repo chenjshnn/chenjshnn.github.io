@@ -7,7 +7,8 @@ feature_text: |
   <span color="#f68140">&#9993;</span>  [Jieshan.Chen@data61.csiro.au](mailto:Jieshan.Chen@data61.csiro.au) · 
   <a  href="https://github.com/chenjshnn" color="#05BF85">GitHub</a> · 
   [Google Scholar](https://scholar.google.com/citations?user=slrzj8kAAAAJ&hl=en) · 
-  [LinkedIn](https://www.linkedin.com/in/jieshan-chen-b27515161/)
+  [LinkedIn](https://www.linkedin.com/in/jieshan-chen-b27515161/) · 
+  [Twitter](https://twitter.com/chenjshnn)
 feature_image: 
 excerpt: "I am currently a research scientist at CSIRO's Data61. Before joining Data61, I was a Ph.D. student in computer science at Australian National University. My work lies in the fields of software engineering, deep learning, and human computer interaction. By understanding the semantics of user interfaces (UIs), my work aims to improve designers’, developers’, and end-users’ efficiency when designing, developing and using the mobile applications. I am currently working on android code generation from UI design, UI design search and generation, and mobile application accessibility enhancement." 
 ---
@@ -19,6 +20,7 @@ My work lies in the fields of software engineering, deep learning, and human com
 
 
 ### News
+- [2022-12-01] Selected as a Junior PC Member at MSR2023
 - [2022-08-31] Gave a talk titled **"Understanding Fairness Issues in Machine Unlearning and Dark Pattern"** at [NIST Workshop on Mitigating AI Bias in Context](https://www.nccoe.nist.gov/get-involved/attend-events/workshop-mitigating-ai-bias-context) 
 - [2022-07-08] Released a preprint version of our work **"Extracting Replayable Interactions from Videos of Mobile App Usage"**
 - [2022-01-10] Joined CSIRO's Data61 as a research scientist
@@ -59,9 +61,10 @@ Guibin Chen, Deheng Ye, Zhenchang Xing, ***Jieshan Chen***, and Erik Cambria. <b
 ### Service
 
 **Program Committee** <br />
+· The Mining Software Repositories (MSR-23-Junior PC, MSR-22-Shadow PC) <br />
+· International Conference on Software and System Processes (ICSSP 2023 - PC Member) <br />
 · IEEE International Symposium on Software Reliability Engineering (ISSRE-22-Industry Track) <br />
 · ACM CHI Conference on Human Factors in Computing Systems (CHI-22-Computational UI Workshop) <br />
-· The Mining Software Repositories (MSR-22-Shadow PC)
 
 **Reviewer** <br />
 · IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR-23) <br />
