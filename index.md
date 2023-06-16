@@ -61,21 +61,23 @@ Guibin Chen, Deheng Ye, Zhenchang Xing, ***Jieshan Chen***, and Erik Cambria. <b
 ### Service
 
 **Program Committee** <br />
-· The Mining Software Repositories (MSR-23-Junior PC, MSR-22-Shadow PC) <br />
-· International Conference on Software and System Processes (ICSSP 2023 - PC Member) <br />
-· IEEE International Symposium on Software Reliability Engineering (ISSRE-22-Industry Track) <br />
-· ACM CHI Conference on Human Factors in Computing Systems (CHI-22-Computational UI Workshop) <br />
+· IEEE/ACM International Conference on Automated Software Engineering (ASE'23) <br />
+· ACM international joint conference on pervasive and ubiquitous computing (UbiComp/ISWC'23 Posters and Demos) <br />
+· IEEE International Symposium on Software Reliability Engineering (ISSRE'22-Industry Track, ISSRE'23-Industry Track) <br />
+· The Mining Software Repositories (MSR'23-Junior PC, MSR'22-Shadow PC) <br />
+· International Conference on Software and System Processes (ICSSP'23 - PC Member) <br />
+· ACM CHI Conference on Human Factors in Computing Systems (CHI'22-Computational UI Workshop) <br />
 
 **Reviewer** <br />
-· IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR-23) <br />
-· ACM CHI Conference on Human Factors in Computing Systems (CHI-22, CHI-23) <br />
-· ACM international joint conference on pervasive and ubiquitous computing (UbiComp-22) <br />
-· International Journal of Human-Computer Interaction (IJHCI-22) <br />
-· IEEE International Symposium on Software Reliability Engineering (ISSRE-22) <br />
-· ACM Symposium on User Interface Software and Technology (UIST-22) <br />
+· IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR'23) <br />
+· ACM CHI Conference on Human Factors in Computing Systems (CHI'22, CHI'23) <br />
+· ACM international joint conference on pervasive and ubiquitous computing (UbiComp'22) <br />
+· International Journal of Human-Computer Interaction (IJHCI'22) <br />
+· IEEE International Symposium on Software Reliability Engineering (ISSRE'22) <br />
+· ACM Symposium on User Interface Software and Technology (UIST'22) <br />
 · IEEE Transactions on Software Engineering (TSE) <br />
-· Information and Software Technology (IST Journal-2021) <br />
-· The Mining Software Repositories (MSR-2021)
+· Information and Software Technology (IST Journal'21) <br />
+· The Mining Software Repositories (MSR'21)
 
 
 <a href="https://clustrmaps.com/site/1bnhz" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=0jSi742nBLW1zBplx2X6Hk-w2T5g-tjKJyF38nxa7fU&cl=ffffff"></a>
