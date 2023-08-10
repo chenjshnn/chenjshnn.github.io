@@ -8,9 +8,9 @@ feature_text: |
   <a  href="https://github.com/chenjshnn" color="#05BF85">GitHub</a> · 
   [Google Scholar](https://scholar.google.com/citations?user=slrzj8kAAAAJ&hl=en) · 
   [LinkedIn](https://www.linkedin.com/in/jieshan-chen-b27515161/) · 
-  [Twitter](https://twitter.com/chenjshnn)
+  [Twitter](https://twitter.com/jieshanchen_)
 feature_image: 
-excerpt: "I am currently a research scientist at CSIRO's Data61. Before joining Data61, I was a Ph.D. student in computer science at Australian National University. My work lies in the fields of software engineering, deep learning, and human computer interaction. By understanding the semantics of user interfaces (UIs), my work aims to improve designers’, developers’, and end-users’ efficiency when designing, developing and using the mobile applications. I am currently working on android code generation from UI design, UI design search and generation, and mobile application accessibility enhancement." 
+excerpt: "I am currently a research scientist at CSIRO's Data61. Before joining Data61, I pursued my Ph.D. degree in computer science at Australian National University. My work lies in the fields of software engineering, deep learning, and human computer interaction. By understanding the semantics of user interfaces (UIs), my work aims to improve designers’, developers’, and end-users’ efficiency when designing, developing and using the mobile applications. I am currently working on android code generation from UI design, UI design search and generation, and mobile application accessibility enhancement." 
 ---
 
 I am currently a research scientist at CSIRO's Data61. Before joining Data61, I was a Ph.D. student in computer science at Australian National University. My supervisors are [Zhenchang Xing](https://cecs.anu.edu.au/people/zhenchang-xing) and [Chunyang Chen](https://chunyang-chen.github.io/). 
@@ -83,6 +83,7 @@ Guibin Chen, Deheng Ye, Zhenchang Xing, ***Jieshan Chen***, and Erik Cambria. <b
 · ACM CHI Conference on Human Factors in Computing Systems (CHI'22-Computational UI Workshop) <br />
 
 **Reviewer** <br />
+· IEEE Transactions on Software Engineering and Methodology (TOSEM) <br />
 · IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR'23) <br />
 · ACM CHI Conference on Human Factors in Computing Systems (CHI'22, CHI'23) <br />
 · ACM international joint conference on pervasive and ubiquitous computing (UbiComp'22) <br />
