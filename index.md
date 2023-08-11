@@ -76,6 +76,7 @@ Guibin Chen, Deheng Ye, Zhenchang Xing, ***Jieshan Chen***, and Erik Cambria. <b
 
 **Program Committee** <br />
 · IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER'24 ERA Track) <br />
+· ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023-SRC Track) <br />
 · IEEE/ACM International Conference on Automated Software Engineering (ASE'23) <br />
 · ACM international joint conference on pervasive and ubiquitous computing (UbiComp/ISWC'23 Posters and Demos) <br />
 · IEEE International Symposium on Software Reliability Engineering (ISSRE'22-Industry Track, ISSRE'23-Industry Track) <br />
