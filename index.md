@@ -24,13 +24,14 @@ My work lies in the fields of software engineering, deep learning, and human com
 - [2023-07] Our paper "Towards Real Smart Apps: Investigating Human-AI Interactions in Smartphone On-Device AI Apps" is released at [Arxiv](https://arxiv.org/abs/2307.00756)
 - [2023-07] Invited as a PC Member for SANER 2024
 - [2023-05] Invited as a PC Member for ASE 2023
+<!---
 - [2022-12-01] Selected as a Junior PC Member at MSR 2023
 - [2022-08-31] Gave a talk titled **"Understanding Fairness Issues in Machine Unlearning and Dark Pattern"** at [NIST Workshop on Mitigating AI Bias in Context](https://www.nccoe.nist.gov/get-involved/attend-events/workshop-mitigating-ai-bias-context) 
 - [2022-07-08] Released a preprint version of our work **"Extracting Replayable Interactions from Videos of Mobile App Usage"**
 - [2022-01-10] Joined CSIRO's Data61 as a research scientist
 - [2021-11-16] Our paper **"Towards Complete Icon Labeling in Mobile Applications"** accepted at [CHI 2022](https://chi2022.acm.org/)
 - [2021-05-26] Presented our paper **"Wireframe-based UI Design Search through Image Autoencoder"** at ICSE 2021
-
+-->
 
 ### Publications
 
@@ -38,15 +39,15 @@ My work lies in the fields of software engineering, deep learning, and human com
 ***Jieshan Chen***, Jiamou Sun, Sidong Feng, Zhenchang Xing, Qinghua Lu and Chunyang Chen <br />
 To appear
 
-**Towards Real Smart Apps: Investigating Human-AI Interactions in Smartphone On-Device AI Apps** <br />
+**[Preprint] Towards Real Smart Apps: Investigating Human-AI Interactions in Smartphone On-Device AI Apps** <br />
 Jason Ching Yuen Siu, **Jieshan Chen**, Yujin Huang, Zhenchang Xing, Chunyang Chen <br />
 July 2023 · [PDF](https://arxiv.org/abs/2307.00756)
 
-**Prompt Sapper: A LLM-Empowered Production Tool for Building AI Chains** <br />
-Yu Cheng, Jieshan Chen, Qing Huang, Zhenchang Xing, Xiwei Xu, Qinghua Lu <br />
+**[Preprint] Prompt Sapper: A LLM-Empowered Production Tool for Building AI Chains** <br />
+Yu Cheng, **Jieshan Chen**, Qing Huang, Zhenchang Xing, Xiwei Xu, Qinghua Lu <br />
 June 2023 · [PDF](https://arxiv.org/pdf/2306.12028)
 
-**Extracting Replayable Interactions from Videos of Mobile App Usage** <br />
+**[Preprint] Extracting Replayable Interactions from Videos of Mobile App Usage** <br />
 **Jieshan Chen**, Amanda Swearngin, Jason Wu, Titus Barik, Jeffrey Nichols and Xiaoyi Zhang <br />
 July 2022 · [PDF](/files/Preprint_2022_VideoReply.pdf)
 
