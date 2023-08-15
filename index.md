@@ -21,7 +21,6 @@ My work lies in the fields of software engineering, deep learning, and human com
 
 ### News
 - [2023-08-05] Our paper "Unveiling the tricks: automated detection of dark pattern in mobile applications" is accepted by [UIST 2023](https://uist.acm.org/2023/)
-- [2023-07] Our paper "Towards Real Smart Apps: Investigating Human-AI Interactions in Smartphone On-Device AI Apps" is released at [Arxiv](https://arxiv.org/abs/2307.00756)
 - [2023-07] Invited as a PC Member for SANER 2024
 - [2023-05] Invited as a PC Member for ASE 2023
 <!---
