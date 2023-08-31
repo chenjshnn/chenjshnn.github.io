@@ -1,7 +1,7 @@
 ---
 title: About me
 feature_text: |
-  <image height="auto" max-width="15dp" src="/files/avatar.jpg" style="border-radius: 50%;" /> 
+  <image height="auto" max-width="5dp" src="/files/avatar.jpg" style="border-radius: 50%;" /> 
   ## Jieshan Chen 
   Research Scientist at CSIRO's Data61 <br>
   <span color="#f68140">&#9993;</span>  [Jieshan.Chen@data61.csiro.au](mailto:Jieshan.Chen@data61.csiro.au) · 
