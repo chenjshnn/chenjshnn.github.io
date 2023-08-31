@@ -128,10 +128,10 @@ navigation_header:
 - title: Publications
   url: /#publications
 - title: CV
-  url: /files/Jieshan-CV-202111.pdf
+  url: /files/Jieshan-CV-Sep2023.pdf
 
 navigation_footer:
-- title: Last Update in Aug., 2022
+- title: Last Update in Sep., 2023
   url: 
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
