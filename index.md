@@ -13,9 +13,11 @@ feature_image:
 excerpt: "I am currently a research scientist at CSIRO's Data61. Before joining Data61, I pursued my Ph.D. degree in computer science at Australian National University. My work lies in the fields of software engineering, deep learning, and human computer interaction. By understanding the semantics of user interfaces (UIs), my work aims to improve designers’, developers’, and end-users’ efficiency when designing, developing and using the mobile applications. I am currently working on android code generation from UI design, UI design search and generation, and mobile application accessibility enhancement." 
 ---
 
-I am currently a research scientist at CSIRO's Data61. Before joining Data61, I was a Ph.D. student in computer science at Australian National University. My supervisors are [Zhenchang Xing](https://cecs.anu.edu.au/people/zhenchang-xing) and [Chunyang Chen](https://chunyang-chen.github.io/). 
+Jieshan is currently a research scientist at CSIRO's Data61. She received her Ph.D. degree in computer science at Australian National University, where she was advised by [Zhenchang Xing](https://cecs.anu.edu.au/people/zhenchang-xing) and [Chunyang Chen](https://chunyang-chen.github.io/). 
 
-My work lies in the fields of software engineering, deep learning, and human computer interaction. By understanding the semantics of user interfaces, my work aims to improve designers’, developers’, and end-users’ efficiency when designing, developing and using the mobile applications. I am currently working on android code generation from User Interface (UI) design, UI design search and generation, and mobile application accessibility enhancement.
+She works at the interaction of software engineering and human computer interaction. The main goal of her research is to use human-centred technique to examine and ensure responsible software development by design. She is currently working on dark pattern detection, data visualisation, UI design search and generation, and mobile application accessibility enhancement.
+
+Jieshan has many publications at top-tier conferences/journals, like ICSE, FSE, UIST, CHI and TOSEM. The ICSE20 paper got the SIGSOFT Distinguished Paper Award. 
 
 
 
@@ -35,7 +37,7 @@ My work lies in the fields of software engineering, deep learning, and human com
 
 **[UIST'23] Unveiling the tricks: automated detection of dark pattern in mobile applications** <br />
 ***Jieshan Chen***, Jiamou Sun, Sidong Feng, Zhenchang Xing, Qinghua Lu and Chunyang Chen <br />
-To appear
+[Preprint](https://arxiv.org/pdf/2308.05898.pdf)
 
 **[Preprint] Towards Real Smart Apps: Investigating Human-AI Interactions in Smartphone On-Device AI Apps** <br />
 Jason Ching Yuen Siu, **Jieshan Chen**, Yujin Huang, Zhenchang Xing, Chunyang Chen <br />
