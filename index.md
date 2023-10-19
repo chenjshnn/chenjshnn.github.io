@@ -37,11 +37,11 @@ Jieshan has many publications at top-tier conferences/journals, like ICSE, FSE, 
 
 **[UIST'23] Unveiling the tricks: automated detection of dark pattern in mobile applications** <br />
 ***Jieshan Chen***, Jiamou Sun, Sidong Feng, Zhenchang Xing, Qinghua Lu and Chunyang Chen <br />
-[Preprint](https://arxiv.org/pdf/2308.05898.pdf)
+[Preprint](https://arxiv.org/pdf/2308.05898.pdf) · Acceptance Rate 25% (121/483)
 
 **[Preprint] Towards Real Smart Apps: Investigating Human-AI Interactions in Smartphone On-Device AI Apps** <br />
 Jason Ching Yuen Siu, **Jieshan Chen**, Yujin Huang, Zhenchang Xing, Chunyang Chen <br />
-July 2023 · [PDF](https://arxiv.org/abs/2307.00756)
+July 2023 · [PDF](https://arxiv.org/abs/2307.00756) 
 
 **[Preprint] Prompt Sapper: A LLM-Empowered Production Tool for Building AI Chains** <br />
 Yu Cheng, **Jieshan Chen**, Qing Huang, Zhenchang Xing, Xiwei Xu, Qinghua Lu <br />
@@ -86,11 +86,11 @@ Guibin Chen, Deheng Ye, Zhenchang Xing, ***Jieshan Chen***, and Erik Cambria. <b
 · ACM CHI Conference on Human Factors in Computing Systems (CHI'22-Computational UI Workshop) <br />
 
 **Reviewer** <br />
+· ACM CHI Conference on Human Factors in Computing Systems (CHI'22, CHI'23, CHI'24) <br />
 · ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW'24) <br />
 · International Conference on Software Engineering (ICSE'24) <br />
 · IEEE Transactions on Software Engineering and Methodology (TOSEM) <br />
 · IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR'23) <br />
-· ACM CHI Conference on Human Factors in Computing Systems (CHI'22, CHI'23) <br />
 · ACM international joint conference on pervasive and ubiquitous computing (UbiComp'22) <br />
 · International Journal of Human-Computer Interaction (IJHCI'22) <br />
 · IEEE International Symposium on Software Reliability Engineering (ISSRE'22) <br />
