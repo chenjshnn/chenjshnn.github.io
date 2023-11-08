@@ -37,7 +37,7 @@ Jieshan has many publications at top-tier conferences/journals, like ICSE, FSE, 
 
 **[UIST'23] Unveiling the tricks: automated detection of dark pattern in mobile applications** <br />
 ***Jieshan Chen***, Jiamou Sun, Sidong Feng, Zhenchang Xing, Qinghua Lu and Chunyang Chen <br />
-[Preprint](https://arxiv.org/pdf/2308.05898.pdf) · Acceptance Rate 25% (121/483)
+[Official](https://dl.acm.org/doi/10.1145/3586183.3606783) · [PDF](https://arxiv.org/pdf/2308.05898.pdf) · [Dataset](https://zenodo.org/records/8126443) · Acceptance Rate 25% (121/483)
 
 **[Preprint] Towards Real Smart Apps: Investigating Human-AI Interactions in Smartphone On-Device AI Apps** <br />
 Jason Ching Yuen Siu, **Jieshan Chen**, Yujin Huang, Zhenchang Xing, Chunyang Chen <br />
@@ -45,7 +45,7 @@ July 2023 · [PDF](https://arxiv.org/abs/2307.00756)
 
 **[Preprint] Prompt Sapper: A LLM-Empowered Production Tool for Building AI Chains** <br />
 Yu Cheng, **Jieshan Chen**, Qing Huang, Zhenchang Xing, Xiwei Xu, Qinghua Lu <br />
-June 2023 · [PDF](https://arxiv.org/pdf/2306.12028)
+June 2023 · [PDF](https://arxiv.org/pdf/2306.12028) · [Tool](https://www.aichain.online/)
 
 **[Preprint] Extracting Replayable Interactions from Videos of Mobile App Usage** <br />
 **Jieshan Chen**, Amanda Swearngin, Jason Wu, Titus Barik, Jeffrey Nichols and Xiaoyi Zhang <br />
