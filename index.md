@@ -39,7 +39,7 @@ Jieshan has many publications at top-tier conferences/journals, like ICSE, FSE, 
 ### Publications
 
 **[ICSE'24] Where is it? Tracing the Vulnerability-relevant Files from Vulnerability Reports** <br />
-Jiamou Sun, **Jieshan Chen**, Zhenchang Xing, Qinghua Lu, Xiwei (Sherry) Xu, Liming Zhu
+Jiamou Sun, **Jieshan Chen**, Zhenchang Xing, Qinghua Lu, Xiwei (Sherry) Xu, Liming Zhu <br />
 To appear
 
 **[TOSEM'23] Prompt Sapper: A LLM-Empowered Production Tool for Building AI Chains** <br />
@@ -51,8 +51,8 @@ Nov 2023 · [Official Page](https://dl.acm.org/doi/10.1145/3638247) · [PDF](htt
 [Official Page](https://dl.acm.org/doi/10.1145/3586183.3606783) · [PDF](https://arxiv.org/pdf/2308.05898.pdf) · [Dataset](https://zenodo.org/records/8126443) · [Code](https://github.com/chenjshnn/UIST23-UIGuard) · Acceptance Rate 25% (121/483)
 
 **[ASE'23] Let's Chat to Find the APIs: Connecting Human, LLM and Knowledge Graph through AI Chain** <br />
-Qing Huang, Zhenyu Wan, Zhenchang Xing, Changjing Wang, **Jieshan Chen**, Xiwei Xu, Qinghua Lu
-[Official Page](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10298399)
+Qing Huang, Zhenyu Wan, Zhenchang Xing, Changjing Wang, **Jieshan Chen**, Xiwei Xu, Qinghua Lu <br />
+[Official Page](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10298399) · Acceptance Rate 20.3% (134/661)
 
 **[Preprint] Towards Real Smart Apps: Investigating Human-AI Interactions in Smartphone On-Device AI Apps** <br />
 Jason Ching Yuen Siu, **Jieshan Chen\***, Yujin Huang, Zhenchang Xing, Chunyang Chen <br />
