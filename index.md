@@ -38,7 +38,7 @@ Jieshan has many publications at top-tier conferences/journals, like ICSE, FSE, 
 ### Publications
 
 **[TOSEM'23] Prompt Sapper: A LLM-Empowered Production Tool for Building AI Chains** <br />
-Yu Cheng, **Jieshan Chen**, Qing Huang, Zhenchang Xing, Xiwei Xu, Qinghua Lu <br />
+Yu Cheng, **Jieshan Chen\***, Qing Huang, Zhenchang Xing, Xiwei Xu, Qinghua Lu <br />
 Nov 2023 · [Official](https://dl.acm.org/doi/10.1145/3638247) · [PDF](https://arxiv.org/pdf/2306.12028) · [Tool](https://www.aichain.online/)
 
 **[UIST'23] Unveiling the tricks: automated detection of dark pattern in mobile applications** <br />
@@ -46,7 +46,7 @@ Nov 2023 · [Official](https://dl.acm.org/doi/10.1145/3638247) · [PDF](https://
 [Official](https://dl.acm.org/doi/10.1145/3586183.3606783) · [PDF](https://arxiv.org/pdf/2308.05898.pdf) · [Dataset](https://zenodo.org/records/8126443) · [Code](https://github.com/chenjshnn/UIST23-UIGuard) · Acceptance Rate 25% (121/483)
 
 **[Preprint] Towards Real Smart Apps: Investigating Human-AI Interactions in Smartphone On-Device AI Apps** <br />
-Jason Ching Yuen Siu, **Jieshan Chen**, Yujin Huang, Zhenchang Xing, Chunyang Chen <br />
+Jason Ching Yuen Siu, **Jieshan Chen\***, Yujin Huang, Zhenchang Xing, Chunyang Chen <br />
 July 2023 · [PDF](https://arxiv.org/abs/2307.00756) 
 
 **[Preprint] Extracting Replayable Interactions from Videos of Mobile App Usage** <br />
@@ -74,6 +74,7 @@ July 2022 · [PDF](/files/Preprint_2022_VideoReply.pdf)
 Guibin Chen, Deheng Ye, Zhenchang Xing, ***Jieshan Chen***, and Erik Cambria. <br />
 [PDF](https://ieeexplore.ieee.org/document/7966144/keywords)
 
+\* means corresponding authors.
 
 ### Service
 
