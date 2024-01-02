@@ -39,7 +39,7 @@ Jieshan has many publications at top-tier conferences/journals, like ICSE, FSE, 
 
 **[TOSEM'23] Prompt Sapper: A LLM-Empowered Production Tool for Building AI Chains** <br />
 Yu Cheng, **Jieshan Chen**, Qing Huang, Zhenchang Xing, Xiwei Xu, Qinghua Lu <br />
-June 2023 · [PDF](https://arxiv.org/pdf/2306.12028) · [Tool](https://www.aichain.online/)
+Nov 2023 · [Official](https://dl.acm.org/doi/10.1145/3638247) · [PDF](https://arxiv.org/pdf/2306.12028) · [Tool](https://www.aichain.online/)
 
 **[UIST'23] Unveiling the tricks: automated detection of dark pattern in mobile applications** <br />
 ***Jieshan Chen***, Jiamou Sun, Sidong Feng, Zhenchang Xing, Qinghua Lu and Chunyang Chen <br />
