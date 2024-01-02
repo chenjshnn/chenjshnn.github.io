@@ -43,7 +43,7 @@ June 2023 · [PDF](https://arxiv.org/pdf/2306.12028) · [Tool](https://www.aicha
 
 **[UIST'23] Unveiling the tricks: automated detection of dark pattern in mobile applications** <br />
 ***Jieshan Chen***, Jiamou Sun, Sidong Feng, Zhenchang Xing, Qinghua Lu and Chunyang Chen <br />
-[Official](https://dl.acm.org/doi/10.1145/3586183.3606783) · [PDF](https://arxiv.org/pdf/2308.05898.pdf) · [Dataset](https://zenodo.org/records/8126443) · Acceptance Rate 25% (121/483)
+[Official](https://dl.acm.org/doi/10.1145/3586183.3606783) · [PDF](https://arxiv.org/pdf/2308.05898.pdf) · [Dataset](https://zenodo.org/records/8126443) · [Code](https://github.com/chenjshnn/UIST23-UIGuard) · Acceptance Rate 25% (121/483)
 
 **[Preprint] Towards Real Smart Apps: Investigating Human-AI Interactions in Smartphone On-Device AI Apps** <br />
 Jason Ching Yuen Siu, **Jieshan Chen**, Yujin Huang, Zhenchang Xing, Chunyang Chen <br />
@@ -78,6 +78,7 @@ Guibin Chen, Deheng Ye, Zhenchang Xing, ***Jieshan Chen***, and Erik Cambria. <b
 ### Service
 
 **Program Committee** <br />
+· ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'24) <br />
 · International Conference on Software Engineering (ICSE'25) <br />
 · IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER'24 ERA Track) <br />
 · ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023-SRC Track) <br />
