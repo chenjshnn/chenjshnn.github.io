@@ -22,6 +22,7 @@ Jieshan has many publications at top-tier conferences/journals, like ICSE, FSE, 
 
 
 ### News
+- [2023-12] Our paper "Where is it? Tracing the Vulnerability-relevant Files from Vulnerability Reports" is accepted by ICSE'2024!
 - [2023-12-05] Our paper "Prompt Sapper: A LLM-Empowered Production Tool for Building AI Chains" is accepted by TOSEM 2023!
 - [2023-11] Invited as a PC Member for ICSE 2025
 - [2023-08-05] Our paper "Unveiling the tricks: automated detection of dark pattern in mobile applications" is accepted by [UIST 2023](https://uist.acm.org/2023/)
@@ -36,6 +37,9 @@ Jieshan has many publications at top-tier conferences/journals, like ICSE, FSE, 
 
 
 ### Publications
+
+**[ICSE'24] Where is it? Tracing the Vulnerability-relevant Files from Vulnerability Reports** <br />
+Jiamou Sun, **Jieshan Chen**, Zhenchang Xing, Qinghua Lu, Xiwei (Sherry) Xu, Liming Zhu
 
 **[TOSEM'23] Prompt Sapper: A LLM-Empowered Production Tool for Building AI Chains** <br />
 Yu Cheng, **Jieshan Chen\***, Qing Huang, Zhenchang Xing, Xiwei Xu, Qinghua Lu <br />
