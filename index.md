@@ -40,7 +40,7 @@ Jieshan has many publications at top-tier conferences/journals, like ICSE, FSE, 
 
 **[ICSE'24] Where is it? Tracing the Vulnerability-relevant Files from Vulnerability Reports** <br />
 Jiamou Sun, **Jieshan Chen**, Zhenchang Xing, Qinghua Lu, Xiwei (Sherry) Xu, Liming Zhu <br />
-To appear
+To appear · Acceptance rate: 22.3% (234/1051)
 
 **[TOSEM'23] Prompt Sapper: A LLM-Empowered Production Tool for Building AI Chains** <br />
 Yu Cheng, **Jieshan Chen\***, Qing Huang, Zhenchang Xing, Xiwei Xu, Qinghua Lu <br />
