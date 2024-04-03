@@ -88,11 +88,11 @@ Guibin Chen, Deheng Ye, Zhenchang Xing, ***Jieshan Chen***, and Erik Cambria. <b
 ### Service
 
 **Program Committee** <br />
-· ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'24) <br />
 · International Conference on Software Engineering (ICSE'25) <br />
+· ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'24) <br />
+· IEEE/ACM International Conference on Automated Software Engineering (ASE'23, ASE'24) <br />
 · IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER'24 ERA Track) <br />
 · ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023-SRC Track) <br />
-· IEEE/ACM International Conference on Automated Software Engineering (ASE'23) <br />
 · ACM international joint conference on pervasive and ubiquitous computing (UbiComp/ISWC'23 Posters and Demos) <br />
 · IEEE International Symposium on Software Reliability Engineering (ISSRE'22-Industry Track, ISSRE'23-Industry Track) <br />
 · The Mining Software Repositories (MSR'23-Junior PC, MSR'22-Shadow PC) <br />
