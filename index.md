@@ -91,11 +91,13 @@ Guibin Chen, Deheng Ye, Zhenchang Xing, ***Jieshan Chen***, and Erik Cambria. <b
 \* means corresponding authors.
 
 ### Service
+**Chair** <br />
+· ACM Conference on Computer and Communications Security (CCS’24 – LAMPS Workshop)
 
 **Program Committee** <br />
 · International Conference on Software Engineering (ICSE'25) <br />
 · ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'24) <br />
-· IEEE/ACM International Conference on Automated Software Engineering (ASE'23, ASE'24) <br />
+· IEEE/ACM International Conference on Automated Software Engineering (ASE'23, ASE'24, ASE’25-Artifact Evaluation) <br />
 · IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER'24 ERA Track) <br />
 · ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023-SRC Track) <br />
 · ACM international joint conference on pervasive and ubiquitous computing (UbiComp/ISWC'23 Posters and Demos) <br />
@@ -105,6 +107,7 @@ Guibin Chen, Deheng Ye, Zhenchang Xing, ***Jieshan Chen***, and Erik Cambria. <b
 · ACM CHI Conference on Human Factors in Computing Systems (CHI'22-Computational UI Workshop) <br />
 
 **Reviewer** <br />
+· ACM Symposium on User Interface Software and Technology (UIST'22, UIST'24) <br />
 · ACM CHI Conference on Human Factors in Computing Systems (CHI'22, CHI'23, CHI'24) <br />
 · ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW'24) <br />
 · International Conference on Software Engineering (ICSE'24) <br />
@@ -113,7 +116,6 @@ Guibin Chen, Deheng Ye, Zhenchang Xing, ***Jieshan Chen***, and Erik Cambria. <b
 · ACM international joint conference on pervasive and ubiquitous computing (UbiComp'22) <br />
 · International Journal of Human-Computer Interaction (IJHCI'22) <br />
 · IEEE International Symposium on Software Reliability Engineering (ISSRE'22) <br />
-· ACM Symposium on User Interface Software and Technology (UIST'22) <br />
 · IEEE Transactions on Software Engineering (TSE) <br />
 · Information and Software Technology (IST Journal'21) <br />
 · The Mining Software Repositories (MSR'21)
