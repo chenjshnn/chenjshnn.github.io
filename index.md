@@ -23,7 +23,7 @@ Jieshan has many publications at top-tier conferences/journals, like ICSE, FSE, 
 
 
 ### News
-- [2024-07] One paper accepted at UIST 2025.
+- [2024-07] One paper accepted at UIST 2024.
 - [2024-06] Two papers accepted at TOSEM 2024
 - [2024-06-14] Call for paper for CCS'24 LAMPS Workshop (https://lamps-ccs.com/)!
 
