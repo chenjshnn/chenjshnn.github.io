@@ -10,10 +10,10 @@ feature_text: |
   [LinkedIn](https://www.linkedin.com/in/jieshan-chen-b27515161/) · 
   [Twitter](https://twitter.com/jieshanchen_)
 feature_image: 
-excerpt: "I am currently a research scientist at CSIRO's Data61. Before joining Data61, I pursued my Ph.D. degree in computer science at Australian National University. My work lies in the fields of software engineering, deep learning, and human computer interaction. By understanding the semantics of user interfaces (UIs), my work aims to improve designers’, developers’, and end-users’ efficiency when designing, developing and using the mobile applications. I am currently working on android code generation from UI design, UI design search and generation, and mobile application accessibility enhancement." 
+excerpt: "I am currently a research scientist and UI intelligence team lead at CSIRO's Data61. Before joining Data61, I pursued my Ph.D. degree in computer science at Australian National University. My work lies in the fields of software engineering, deep learning, and human computer interaction. By understanding the semantics of user interfaces (UIs), my work aims to improve designers’, developers’, and end-users’ efficiency when designing, developing and using the mobile applications. I am currently working on android code generation from UI design, UI design search and generation, and mobile application accessibility enhancement." 
 ---
 
-Jieshan is currently a research scientist at CSIRO's Data61. She received her Ph.D. degree in computer science at Australian National University, where she was advised by [Zhenchang Xing](https://cecs.anu.edu.au/people/zhenchang-xing) and [Chunyang Chen](https://chunyang-chen.github.io/). 
+Jieshan is currently a research scientist and UI intelligence team lead at CSIRO's Data61. She received her Ph.D. degree in computer science at Australian National University, where she was advised by [Zhenchang Xing](https://cecs.anu.edu.au/people/zhenchang-xing) and [Chunyang Chen](https://chunyang-chen.github.io/). 
 
 She works at the interaction of software engineering and human computer interaction. The main goal of her research is to use human-centred technique to examine and ensure responsible software development by design. She is currently working on dark pattern detection, data visualisation, UI design search and generation, and mobile application accessibility enhancement.
 
@@ -22,6 +22,10 @@ Jieshan has many publications at top-tier conferences/journals, like ICSE, FSE, 
 
 
 ### News
+- [2024-07] One paper accepted at UIST 2025.
+- [2024-06] Two papers accepted at TOSEM 2024
+<details open>
+<summary>-before 2024</summary>
 - [2023-12] Our paper "Where is it? Tracing the Vulnerability-relevant Files from Vulnerability Reports" is accepted by ICSE'2024!
 - [2023-12-05] Our paper "Prompt Sapper: A LLM-Empowered Production Tool for Building AI Chains" is accepted by TOSEM 2023!
 - [2023-11] Invited as a PC Member for ICSE 2025
@@ -34,6 +38,7 @@ Jieshan has many publications at top-tier conferences/journals, like ICSE, FSE, 
 - [2022-01-10] Joined CSIRO's Data61 as a research scientist
 - [2021-11-16] Our paper **"Towards Complete Icon Labeling in Mobile Applications"** accepted at [CHI 2022](https://chi2022.acm.org/)
 - [2021-05-26] Presented our paper **"Wireframe-based UI Design Search through Image Autoencoder"** at ICSE 2021
+</details>
 
 
 ### Publications
