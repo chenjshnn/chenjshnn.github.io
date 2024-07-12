@@ -1,4 +1,5 @@
 ---
+layout: default
 title: About me
 feature_text: |
   <image height="200dp" width="200dp" src="/files/avatar.jpg" style="border-radius: 50%;" /> 
@@ -25,6 +26,9 @@ Jieshan has many publications at top-tier conferences/journals, like ICSE, FSE, 
 - [2024-07] One paper accepted at UIST 2025.
 - [2024-06] Two papers accepted at TOSEM 2024
 - [2024-06-14] Call for paper for CCS'24 LAMPS Workshop (https://lamps-ccs.com/)!
+
+<details>
+<summary>News before 2024</summary>
 - [2023-12] Our paper "Where is it? Tracing the Vulnerability-relevant Files from Vulnerability Reports" is accepted by ICSE'2024!
 - [2023-12-05] Our paper "Prompt Sapper: A LLM-Empowered Production Tool for Building AI Chains" is accepted by TOSEM 2023!
 - [2023-11] Invited as a PC Member for ICSE 2025
@@ -37,7 +41,7 @@ Jieshan has many publications at top-tier conferences/journals, like ICSE, FSE, 
 - [2022-01-10] Joined CSIRO's Data61 as a research scientist
 - [2021-11-16] Our paper **"Towards Complete Icon Labeling in Mobile Applications"** accepted at [CHI 2022](https://chi2022.acm.org/)
 - [2021-05-26] Presented our paper **"Wireframe-based UI Design Search through Image Autoencoder"** at ICSE 2021
-
+</details>
 
 
 ### Publications
