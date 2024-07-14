@@ -91,7 +91,7 @@ Guibin Chen, Deheng Ye, Zhenchang Xing, ***Jieshan Chen***, and Erik Cambria. <b
 
 ### Service
 **Chair** <br />
-· ACM Conference on Computer and Communications Security (CCS’24 – LAMPS Workshop)
+· ACM Conference on Computer and Communications Security (CCS’24 – LAMPS Workshop  https://lamps-ccs.com/)
 
 **Program Committee** <br />
 · International Conference on Software Engineering (ICSE'25) <br />
