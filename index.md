@@ -15,9 +15,9 @@ excerpt: "I am currently a research scientist and UI intelligence team lead at C
 
 Jieshan is currently a research scientist and UI intelligence team lead at CSIRO's Data61. She received her Ph.D. degree in computer science at Australian National University, where she was advised by [Zhenchang Xing](https://cecs.anu.edu.au/people/zhenchang-xing) and [Chunyang Chen](https://chunyang-chen.github.io/). 
 
-She works at the interaction of software engineering and human computer interaction. The main goal of her research is to use human-centred technique to examine and ensure responsible software development by design. She is currently working on dark pattern detection, data visualisation, UI design search and generation, and mobile application accessibility enhancement.
+She works at the interaction of software engineering and human computer interaction. She is also passionate on addressing real-life problems that can actually impact people's daily life. The main goal of her research is to use human-centred technique to examine and ensure responsible software development by design. She is currently working on dark pattern detection, data visualisation, UI design search and generation, and mobile application accessibility enhancement.
 
-Jieshan has many publications at top-tier conferences/journals, like ICSE, FSE, UIST, CHI and TOSEM. The ICSE20 paper got the SIGSOFT Distinguished Paper Award. 
+Jieshan has many publications at top-tier CORE A* ranked conferences/journals, including ICSE, FSE, UIST, CHI, TOSEM and USENIX Security. The ICSE20 paper got the SIGSOFT Distinguished Paper Award. 
 
 
 
