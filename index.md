@@ -17,7 +17,7 @@ Jieshan is currently a research scientist and UI intelligence team lead at CSIRO
 
 She works at the interaction of software engineering and human computer interaction. She is always passionate on addressing real-life problems that can actually impact people's daily life. The main goal of her research is to use human-centred technique to examine and ensure responsible software development by design. She is currently working on dark pattern detection, data visualisation, UI design search and generation, and mobile application accessibility enhancement.
 
-Jieshan has many publications at top-tier CORE A* ranked conferences/journals, including ICSE, FSE, UIST, CHI, TOSEM and USENIX Security. The ICSE20 paper got the SIGSOFT Distinguished Paper Award. 
+Jieshan has published many papers at top-tier CORE A* ranked conferences/journals, including ICSE, FSE, UIST, CHI, TOSEM and USENIX Security. The ICSE20 paper got the SIGSOFT Distinguished Paper Award. See her [Google Scholar Page](https://scholar.google.com/citations?user=slrzj8kAAAAJ) for more details.
 
 
 
