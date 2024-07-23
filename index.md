@@ -2,7 +2,7 @@
 title: About me
 feature_text: |
   <image height="200dp" width="200dp" src="/files/avatar.jpg" style="border-radius: 50%;" /> 
-  ## Jieshan Chen 
+  ## Jieshan Chen (陈洁珊)
   Research Scientist at CSIRO's Data61 <br>
   <span color="#f68140">&#9993;</span>  [Jieshan.Chen@data61.csiro.au](mailto:Jieshan.Chen@data61.csiro.au) · 
   <a  href="https://github.com/chenjshnn" color="#05BF85">GitHub</a> · 
@@ -96,7 +96,7 @@ Guibin Chen, Deheng Ye, Zhenchang Xing, ***Jieshan Chen***, and Erik Cambria. <b
 **Program Committee** <br />
 · International Conference on Software Engineering (ICSE'25) <br />
 · ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'24) <br />
-· IEEE/ACM International Conference on Automated Software Engineering (ASE'23, ASE'24, ASE’25-Artifact Evaluation) <br />
+· IEEE/ACM International Conference on Automated Software Engineering (ASE'23, ASE’24-Artifact Evaluation) <br />
 · IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER'24 ERA Track) <br />
 · ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023-SRC Track) <br />
 · ACM international joint conference on pervasive and ubiquitous computing (UbiComp/ISWC'23 Posters and Demos) <br />
