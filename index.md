@@ -40,7 +40,10 @@ Jieshan has published many papers at top-tier CORE A* ranked conferences/journal
 
 
 
-### Publications
+### Selected Publications
+**[UIST'24] GPTVoiceTasker: Advancing Multi-step Mobile Task Efficiency Through Dynamic Interface Exploration and Learning** <br />
+Minh Duc Vu, Han Wang, Zhuang Li, **Jieshan Chen**, Shengdong Zhao, Zhenchang Xing, Chunyang Chen  <br />
+[Arxiv](https://arxiv.org/pdf/2401.14268)· Acceptance rate: 24% (146/608)
 
 **[ICSE'24] Where is it? Tracing the Vulnerability-relevant Files from Vulnerability Reports** <br />
 Jiamou Sun, **Jieshan Chen**, Zhenchang Xing, Qinghua Lu, Xiwei (Sherry) Xu, Liming Zhu <br />
