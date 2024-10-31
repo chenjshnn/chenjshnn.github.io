@@ -100,7 +100,7 @@ Guibin Chen, Deheng Ye, Zhenchang Xing, ***Jieshan Chen***, and Erik Cambria. <b
 · International Conference on Software Engineering (ICSE'25) <br />
 · ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'24) <br />
 · IEEE/ACM International Conference on Automated Software Engineering (ASE'23, ASE’24-Artifact Evaluation) <br />
-· IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER'24 ERA Track) <br />
+· IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER'24 ERA Track, SANER'25 ERA Track) <br />
 · ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023-SRC Track) <br />
 · ACM international joint conference on pervasive and ubiquitous computing (UbiComp/ISWC'23 Posters and Demos) <br />
 · IEEE International Symposium on Software Reliability Engineering (ISSRE'22-Industry Track, ISSRE'23-Industry Track) <br />
@@ -110,7 +110,7 @@ Guibin Chen, Deheng Ye, Zhenchang Xing, ***Jieshan Chen***, and Erik Cambria. <b
 
 **Reviewer** <br />
 · ACM Symposium on User Interface Software and Technology (UIST'22, UIST'24) <br />
-· ACM CHI Conference on Human Factors in Computing Systems (CHI'22, CHI'23, CHI'24) <br />
+· ACM CHI Conference on Human Factors in Computing Systems (CHI'22, CHI'23, CHI'24, CHI'25) <br />
 · ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW'24) <br />
 · International Conference on Software Engineering (ICSE'24) <br />
 · IEEE Transactions on Software Engineering and Methodology (TOSEM) <br />
