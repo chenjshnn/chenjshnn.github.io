@@ -110,7 +110,7 @@ Guibin Chen, Deheng Ye, Zhenchang Xing, ***Jieshan Chen***, and Erik Cambria. <b
 · ACM international joint conference on pervasive and ubiquitous computing (UbiComp/ISWC'23 Posters & Demos) <br />
 · IEEE International Symposium on Software Reliability Engineering ([ISSRE'22-Industry](https://issre2022.github.io/committee_industry-PC.html), [ISSRE'23-Industry Track](https://issre.github.io/2023/committee_industry-PC.html)) <br />
 · The Mining Software Repositories ([MSR'23-Junior PC](https://conf.researchr.org/committee/msr-2023/msr-2023-junior-pc-program-commitee), [MSR'22-Shadow PC](https://2021.msrconf.org/committee/msr-2021-shadow-pc-shadow-pc-committee)) <br />
-· International Conference on Software and System Processes [ICSSP'23](https://conf.researchr.org/committee/icssp-2023/icssp-2023-papers-program-committee)) <br />
+· International Conference on Software and System Processes ([ICSSP'23](https://conf.researchr.org/committee/icssp-2023/icssp-2023-papers-program-committee)) <br />
 · ACM CHI Conference on Human Factors in Computing Systems ([CHI'22-Computational UI Workshop](https://sites.google.com/nd.edu/computational-uichi22/home)) <br />
 
 **Reviewer** <br />
