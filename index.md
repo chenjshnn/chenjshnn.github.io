@@ -97,16 +97,17 @@ Guibin Chen, Deheng Ye, Zhenchang Xing, ***Jieshan Chen***, and Erik Cambria. <b
 · ACM Conference on Computer and Communications Security (CCS’24 – LAMPS Workshop  https://lamps-ccs.com/)
 
 **Program Committee** <br />
-· International Conference on Software Engineering (ICSE'25) <br />
-· ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'24) <br />
-· IEEE/ACM International Conference on Automated Software Engineering (ASE'23, ASE’24-Artifact Evaluation) <br />
-· IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER'24 ERA Track, SANER'25 ERA Track) <br />
-· ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023-SRC Track) <br />
-· ACM international joint conference on pervasive and ubiquitous computing (UbiComp/ISWC'23 Posters and Demos) <br />
-· IEEE International Symposium on Software Reliability Engineering (ISSRE'22-Industry Track, ISSRE'23-Industry Track) <br />
-· The Mining Software Repositories (MSR'23-Junior PC, MSR'22-Shadow PC) <br />
-· International Conference on Software and System Processes (ICSSP'23 - PC Member) <br />
-· ACM CHI Conference on Human Factors in Computing Systems (CHI'22-Computational UI Workshop) <br />
+· ACM international conference on AI Foundation Models and Software Engineering ([FORGE'25-Data and Benchmarking](https://conf.researchr.org/committee/forge-2025/forge-2025-benchmarking-organization-committee))
+· International Conference on Software Engineering ([ICSE'25](https://conf.researchr.org/track/icse-2025/icse-2025-research-track)) <br />
+· ACM SIGSOFT International Symposium on Software Testing and Analysis ([ISSTA'24](https://2024.issta.org/track/issta-2024-papers)) <br />
+· IEEE/ACM International Conference on Automated Software Engineering ([ASE'23](https://conf.researchr.org/committee/ase-2023/ase-2023-papers-program-committee), [ASE’24-Artifact Evaluation](https://conf.researchr.org/track/ase-2024/ase-2024-artifact-evaluation-track)) <br />
+· IEEE International Conference on Software Analysis, Evolution and Reengineering ([SANER'24-ERA](https://conf.researchr.org/committee/saner-2024/saner-2024-early-research-achievement--era--track--program-commitee), [SANER'25-ERA](https://conf.researchr.org/committee/saner-2025/saner-2025-early-research-achievement--era--track--program-commitee)) <br />
+· ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering ([ESEC/FSE 2023-SRC](https://2023.esec-fse.org/committee/fse-2023-student-research-competition-program-committee)) <br />
+· ACM international joint conference on pervasive and ubiquitous computing (UbiComp/ISWC'23 Posters & Demos) <br />
+· IEEE International Symposium on Software Reliability Engineering ([ISSRE'22-Industry](https://issre2022.github.io/committee_industry-PC.html), [ISSRE'23-Industry Track](https://issre.github.io/2023/committee_industry-PC.html)) <br />
+· The Mining Software Repositories ([MSR'23-Junior PC](https://conf.researchr.org/committee/msr-2023/msr-2023-junior-pc-program-commitee), [MSR'22-Shadow PC](https://2021.msrconf.org/committee/msr-2021-shadow-pc-shadow-pc-committee)) <br />
+· International Conference on Software and System Processes [ICSSP'23](https://conf.researchr.org/committee/icssp-2023/icssp-2023-papers-program-committee)) <br />
+· ACM CHI Conference on Human Factors in Computing Systems ([CHI'22-Computational UI Workshop](https://sites.google.com/nd.edu/computational-uichi22/home)) <br />
 
 **Reviewer** <br />
 · ACM Symposium on User Interface Software and Technology (UIST'22, UIST'24) <br />
