@@ -44,23 +44,23 @@ Jieshan has published many papers at top-tier CORE A* ranked conferences/journal
 ### Selected Publications
 **[ICSE'25] DesignRepair: Dual-Stream Design Guideline-Aware Frontend Repair with Large Language Models** <br />
 Mingyue Yuan, **Jieshan Chen\***, Zhenchang Xing, Aaron Quigley, Yuyu Luo, Gelareh Mohammadi, Qinghua Lu, Liming Zhu <br />
-[Arxiv](https://arxiv.org/pdf/2411.01606)· [GitHub](https://github.com/UGAIForge/DesignRepair2024)
+[Arxiv](https://arxiv.org/pdf/2411.01606) · [GitHub](https://github.com/UGAIForge/DesignRepair2024)
 
 **[UIST'24] GPTVoiceTasker: Advancing Multi-step Mobile Task Efficiency Through Dynamic Interface Exploration and Learning** <br />
 Minh Duc Vu, Han Wang, Zhuang Li, **Jieshan Chen**, Shengdong Zhao, Zhenchang Xing, Chunyang Chen  <br />
-[ACM](https://dl.acm.org/doi/10.1145/3654777.3676356)· [Arxiv](https://arxiv.org/pdf/2401.14268)· [GitHub](https://github.com/vuminhduc796/GPTVoiceTasker)· Acceptance rate: 24% (146/608)
+[ACM](https://dl.acm.org/doi/10.1145/3654777.3676356) · [Arxiv](https://arxiv.org/pdf/2401.14268) · [GitHub](https://github.com/vuminhduc796/GPTVoiceTasker) · Acceptance rate: 24% (146/608)
 
 **[ICSE'24] Where is it? Tracing the Vulnerability-relevant Files from Vulnerability Reports** <br />
 Jiamou Sun, **Jieshan Chen**, Zhenchang Xing, Qinghua Lu, Xiwei (Sherry) Xu, Liming Zhu <br />
-[ACM](https://dl.acm.org/doi/10.1145/3597503.3639202)· [GitHub](https://github.com/anonymous-77400046/vulnerability_file_trace)· Acceptance rate: 22.3% (234/1051)
+[ACM](https://dl.acm.org/doi/10.1145/3597503.3639202) · [GitHub](https://github.com/anonymous-77400046/vulnerability_file_trace) · Acceptance rate: 22.3% (234/1051)
 
 **[TOSEM'23] Prompt Sapper: A LLM-Empowered Production Tool for Building AI Chains** <br />
 Yu Cheng, **Jieshan Chen\***, Qing Huang, Zhenchang Xing, Xiwei Xu, Qinghua Lu <br />
-Nov 2023 · [ACM](https://dl.acm.org/doi/10.1145/3638247) · [ArXiv](https://arxiv.org/pdf/2306.12028) · [Tool](https://www.aichain.online/)
+Nov 2023 · [ACM](https://dl.acm.org/doi/10.1145/3638247) · [ArXiv](https://arxiv.org/pdf/2306.12028) · [Talk](https://www.youtube.com/watch?v=6QZW8WjYesI&lc=Ugyadp9ya26_0qr0g0p4AaABAg) · [Tool](https://www.aichain.online/)
 
 **[UIST'23] Unveiling the tricks: automated detection of dark pattern in mobile applications** <br />
 ***Jieshan Chen***, Jiamou Sun, Sidong Feng, Zhenchang Xing, Qinghua Lu and Chunyang Chen <br />
-[ACM](https://dl.acm.org/doi/10.1145/3586183.3606783) · [ArXiv](https://arxiv.org/pdf/2308.05898.pdf)  · [Talk](https://m.youtube.com/watch?v=PkXHuPkatpk&t=16167s) · [Dataset](https://zenodo.org/records/8126443) · [Code](https://github.com/chenjshnn/UIST23-UIGuard) · Acceptance Rate 25% (121/483)
+[ACM](https://dl.acm.org/doi/10.1145/3586183.3606783) · [ArXiv](https://arxiv.org/pdf/2308.05898.pdf) · [Talk](https://m.youtube.com/watch?v=PkXHuPkatpk&t=16167s) · [Dataset](https://zenodo.org/records/8126443) · [Code](https://github.com/chenjshnn/UIST23-UIGuard) · Acceptance Rate 25% (121/483)
 
 **[ASE'23] Let's Chat to Find the APIs: Connecting Human, LLM and Knowledge Graph through AI Chain** <br />
 Qing Huang, Zhenyu Wan, Zhenchang Xing, Changjing Wang, **Jieshan Chen**, Xiwei Xu, Qinghua Lu <br />
