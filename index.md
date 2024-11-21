@@ -42,7 +42,7 @@ Jieshan has published many papers at top-tier CORE A* ranked conferences/journal
 
 ### Selected Publications
 **[ICSE'25] DesignRepair: Dual-Stream Design Guideline-Aware Frontend Repair with Large Language Models** <br />
-Mingyue Yuan, **Jieshan Chen**, Zhenchang Xing, Aaron Quigley, Yuyu Luo, Gelareh Mohammadi, Qinghua Lu, Liming Zhu <br />
+Mingyue Yuan, **Jieshan Chen\***, Zhenchang Xing, Aaron Quigley, Yuyu Luo, Gelareh Mohammadi, Qinghua Lu, Liming Zhu <br />
 [Arxiv](https://arxiv.org/pdf/2411.01606)· [GitHub](https://github.com/UGAIForge/DesignRepair2024)
 
 **[UIST'24] GPTVoiceTasker: Advancing Multi-step Mobile Task Efficiency Through Dynamic Interface Exploration and Learning** <br />
