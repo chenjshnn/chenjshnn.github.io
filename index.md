@@ -22,6 +22,7 @@ Jieshan has published many papers at top-tier CORE A* ranked conferences/journal
 
 
 ### News
+- [2024-11] One paper accepted at ICSE 2025.
 - [2024-07] One paper accepted at UIST 2024.
 - [2024-06] Two papers accepted at TOSEM 2024
 - [2024-06-14] Call for paper for CCS'24 LAMPS Workshop (https://lamps-ccs.com/)!
