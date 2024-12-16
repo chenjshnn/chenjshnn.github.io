@@ -22,6 +22,8 @@ Jieshan has published many papers at top-tier CORE A* ranked conferences/journal
 
 
 ### News
+- [2024-12-16] Gave a guest lecture on software usability and accessibility at TUM
+- [2024-12-09] Gave a keynote titled "Empowering Users to Detect and Prevent Cyber Threat Through UI Awareness" at [ICDM 2024 - ML4Cyber workshop](https://ml4cyber.github.io/24/)
 - [2024-11] One paper accepted at ICSE 2025.
 - [2024-07] One paper accepted at UIST 2024.
 - [2024-06] Two papers accepted at TOSEM 2024
