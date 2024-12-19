@@ -79,11 +79,11 @@ July 2022 · [PDF](/files/Preprint_2022_VideoReply.pdf)
 
 **[CHI'22] Towards Complete Icon Labeling in Mobile Applications** <br />
 ***Jieshan Chen***, Amanda Swearngin, Jason Wu, Titus Barik, Jeffrey Nichols and Xiaoyi Zhang. <br />
-[PDF](/files/CHI_2022_Icon.pdf) · [Talk](https://www.youtube.com/watch?v=3eaTDpBfqQM&ab_channel=ACMSIGCHI) · Acceptance Rate 12.5% (324/2,597) 
+[PDF](/files/CHI_2022_Icon.pdf) · [Talk](https://www.youtube.com/watch?v=3eaTDpBfqQM&ab_channel=ACMSIGCHI) · Acceptance Rate 12.5% (324/2,597) · Available in iOS
 
 **[ESEC/FSE'20] Object Detection for Graphical User Interface: Old Fashioned or Deep Learning or a Combination?** <br />
 ***Jieshan Chen***, Mulong Xie, Zhenchang Xing, Chunyang Chen, Xiwei Xu, Liming Zhu and Guoqiang Li <br />
-[PDF](/files/FSE2020-UIDetection.pdf) · [Tool Demo](http://uied.online/) · [Talk](https://www.youtube.com/watch?v=KFFp81N6zlg) · [Code](https://github.com/chenjshnn/Object-Detection-for-Graphical-User-Interface) · Acceptance Rate 28% (101/360)
+[PDF](/files/FSE2020-UIDetection.pdf) · [Tool Demo](http://uied.online/) · [Talk](https://www.youtube.com/watch?v=KFFp81N6zlg) · [Code](https://github.com/chenjshnn/Object-Detection-for-Graphical-User-Interface) · Acceptance Rate 28% (101/360) · Integrated into an industrial testing tool [VTest](https://taoxiease.github.io/publications/icse22seip-vtest.pdf) for daily testing apps OF one billion monthly active users
 
 **[TOSEM'20] Wireframe-based UI Design Search through Image Autoencoder.** <br />
 ***Jieshan Chen***, Chunyang Chen, Zhenchang Xing, Xin Xia, Liming Zhu, John Grundy, and Jinshui Wang. <br />
