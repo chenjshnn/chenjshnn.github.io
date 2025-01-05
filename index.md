@@ -106,7 +106,7 @@ Guibin Chen, Deheng Ye, Zhenchang Xing, ***Jieshan Chen***, and Erik Cambria. <b
 
 **Program Committee** <br />
 · ACM international conference on AI Foundation Models and Software Engineering ([FORGE'25-Data and Benchmarking](https://conf.researchr.org/committee/forge-2025/forge-2025-benchmarking-organization-committee)) <br />
-· International Conference on Software Engineering ([ICSE'25](https://conf.researchr.org/track/icse-2025/icse-2025-research-track)) <br />
+· International Conference on Software Engineering ([ICSE'25](https://conf.researchr.org/track/icse-2025/icse-2025-research-track), ICSE'26) <br />
 · ACM SIGSOFT International Symposium on Software Testing and Analysis ([ISSTA'24](https://2024.issta.org/track/issta-2024-papers)) <br />
 · IEEE/ACM International Conference on Automated Software Engineering ([ASE'23](https://conf.researchr.org/committee/ase-2023/ase-2023-papers-program-committee), [ASE’24-Artifact Evaluation](https://conf.researchr.org/track/ase-2024/ase-2024-artifact-evaluation-track)) <br />
 · IEEE International Conference on Software Analysis, Evolution and Reengineering ([SANER'24-ERA](https://conf.researchr.org/committee/saner-2024/saner-2024-early-research-achievement--era--track--program-commitee), [SANER'25-ERA](https://conf.researchr.org/committee/saner-2025/saner-2025-early-research-achievement--era--track--program-commitee)) <br />
