@@ -101,8 +101,8 @@ Guibin Chen, Deheng Ye, Zhenchang Xing, ***Jieshan Chen***, and Erik Cambria. <b
 \* means corresponding authors.
 
 ### Service
-**Chair** <br />
-· ACM Conference on Computer and Communications Security ([CCS’24 – LAMPS Workshop](https://lamps-ccs.com/))
+**Organising Committee** <br />
+· ACM Conference on Computer and Communications Security ([CCS’24 – LAMPS Workshop, Program Co-Chair](https://lamps-ccs.com/))
 
 **Program Committee** <br />
 · ACM international conference on AI Foundation Models and Software Engineering ([FORGE'25-Data and Benchmarking](https://conf.researchr.org/committee/forge-2025/forge-2025-benchmarking-organization-committee)) <br />
