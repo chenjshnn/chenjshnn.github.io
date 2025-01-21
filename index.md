@@ -127,11 +127,12 @@ Guibin Chen, Deheng Ye, Zhenchang Xing, ***Jieshan Chen***, and Erik Cambria. <b
 · ACM CHI Conference on Human Factors in Computing Systems ([CHI'22-Computational UI Workshop](https://sites.google.com/nd.edu/computational-uichi22/home)) <br />
 
 **Reviewer** <br />
+· AACM Transactions on Computer-Human Interaction (TOCHI'24) <br />
 · ACM Symposium on User Interface Software and Technology (UIST'22, UIST'24) <br />
 · ACM CHI Conference on Human Factors in Computing Systems (CHI'22, CHI'23, CHI'24, CHI'25) <br />
 · ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW'24) <br />
 · International Conference on Software Engineering (ICSE'24) <br />
-· IEEE Transactions on Software Engineering and Methodology (TOSEM) <br />
+· IEEE Transactions on Software Engineering and Methodology (TOSEM'24) <br />
 · IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR'23) <br />
 · ACM international joint conference on pervasive and ubiquitous computing (UbiComp'22) <br />
 · International Journal of Human-Computer Interaction (IJHCI'22) <br />
