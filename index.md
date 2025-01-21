@@ -50,7 +50,7 @@ Jieshan has published many papers at top-tier CORE A* ranked conferences/journal
 **Please see full publication list in [Google Scholar](https://scholar.google.com/citations?user=slrzj8kAAAAJ)**
 
 **[WWW'25] 50 Shades of Deceptive Patterns: A Unified Taxonomy, Multimodal Detection, and Security Implications** <br />
-Zewei Shi, Ruoxi Sun, **Jieshan Chen**, Jiamou Sun, Jason Xue, Yansong Gao, Feng Liu, Xingliang YUAN
+Zewei Shi, Ruoxi Sun, **Jieshan Chen**, Jiamou Sun, Jason Xue, Yansong Gao, Feng Liu, Xingliang Yuan <br />
 To appear · Acceptance rate: 19.8% (409/2062) - Oral
 
 **[ICSE'25] DesignRepair: Dual-Stream Design Guideline-Aware Frontend Repair with Large Language Models** <br />
