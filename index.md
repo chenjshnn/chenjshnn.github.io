@@ -17,11 +17,12 @@ Jieshan is currently a research scientist and UI intelligence team lead at CSIRO
 
 She works at the intersection of software engineering and human computer interaction. She is always passionate on addressing real-life problems that can actually impact people's daily life. The main goal of her research is to use human-centred technique to examine and ensure responsible software development by design. She is currently working on dark pattern detection, data visualisation, UI design search and generation, and mobile application accessibility enhancement.
 
-Jieshan has published many papers at top-tier CORE A* ranked conferences/journals, including ICSE, FSE, UIST, CHI, TOSEM and USENIX Security. The ICSE20 paper got the SIGSOFT Distinguished Paper Award. See her [Google Scholar Page](https://scholar.google.com/citations?user=slrzj8kAAAAJ) for more details.
+Jieshan has published papers at top-tier CORE A* ranked conferences/journals, including ICSE, FSE, UIST, CHI, TOSEM and USENIX Security. The ICSE20 paper got the SIGSOFT Distinguished Paper Award. See her [Google Scholar Page](https://scholar.google.com/citations?user=slrzj8kAAAAJ) for more details.
 
 
 
 ### News
+- [2025-02] Invited as a PC Member for ASE 2025
 - [2025-01-20] Two papers accepted at [WWW'2025](https://www2025.thewebconf.org/)
 - [2024-12] Invited as a PC Member for ICSE 2026
 - [2024-12-16] Gave a guest lecture on software usability and accessibility at TUM
@@ -110,10 +111,10 @@ Guibin Chen, Deheng Ye, Zhenchang Xing, ***Jieshan Chen***, and Erik Cambria. <b
 · ACM Conference on Computer and Communications Security ([CCS’24 – LAMPS Workshop, Program Co-Chair](https://lamps-ccs.com/))
 
 **Program Committee** <br />
+· IEEE/ACM International Conference on Automated Software Engineering ([ASE'23](https://conf.researchr.org/committee/ase-2023/ase-2023-papers-program-committee), [ASE’24-Artifact Evaluation](https://conf.researchr.org/track/ase-2024/ase-2024-artifact-evaluation-track)), [ASE'25]() <br />
 · ACM international conference on AI Foundation Models and Software Engineering ([FORGE'25-Data and Benchmarking](https://conf.researchr.org/committee/forge-2025/forge-2025-benchmarking-organization-committee)) <br />
 · International Conference on Software Engineering ([ICSE'25](https://conf.researchr.org/track/icse-2025/icse-2025-research-track), ICSE'26) <br />
 · ACM SIGSOFT International Symposium on Software Testing and Analysis ([ISSTA'24](https://2024.issta.org/track/issta-2024-papers)) <br />
-· IEEE/ACM International Conference on Automated Software Engineering ([ASE'23](https://conf.researchr.org/committee/ase-2023/ase-2023-papers-program-committee), [ASE’24-Artifact Evaluation](https://conf.researchr.org/track/ase-2024/ase-2024-artifact-evaluation-track)) <br />
 · IEEE International Conference on Software Analysis, Evolution and Reengineering ([SANER'24-ERA](https://conf.researchr.org/committee/saner-2024/saner-2024-early-research-achievement--era--track--program-commitee), [SANER'25-ERA](https://conf.researchr.org/committee/saner-2025/saner-2025-early-research-achievement--era--track--program-commitee)) <br />
 · ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering ([ESEC/FSE 2023-SRC](https://2023.esec-fse.org/committee/fse-2023-student-research-competition-program-committee)) <br />
 · ACM international joint conference on pervasive and ubiquitous computing (UbiComp/ISWC'23 Posters & Demos) <br />
