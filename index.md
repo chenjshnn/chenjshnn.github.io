@@ -38,18 +38,20 @@ Jieshan has published papers at top-tier CORE A* ranked conferences/journals, in
 - [2023-08-05] Our paper "Unveiling the tricks: automated detection of dark pattern in mobile applications" is accepted by [UIST 2023](https://uist.acm.org/2023/)
 - [2023-07] Invited as a PC Member for SANER 2024
 - [2023-05] Invited as a PC Member for ASE 2023
+<details>
+<summary>2022</summary>
 - [2022-12-01] Selected as a Junior PC Member at MSR 2023
 - [2022-08-31] Gave a talk titled **"Understanding Fairness Issues in Machine Unlearning and Dark Pattern"** at [NIST Workshop on Mitigating AI Bias in Context](https://www.nccoe.nist.gov/get-involved/attend-events/workshop-mitigating-ai-bias-context) 
 - [2022-07-08] Released a preprint version of our work **"Extracting Replayable Interactions from Videos of Mobile App Usage"**
 - [2022-01-10] Joined CSIRO's Data61 as a research scientist
 - [2021-11-16] Our paper **"Towards Complete Icon Labeling in Mobile Applications"** accepted at [CHI 2022](https://chi2022.acm.org/)
 - [2021-05-26] Presented our paper **"Wireframe-based UI Design Search through Image Autoencoder"** at ICSE 2021
-
+</details>
 
 
 ### Selected Publications
 
-**Please see full publication list in [Google Scholar](https://scholar.google.com/citations?user=slrzj8kAAAAJ)**
+**Please see full the publication list in [Google Scholar](https://scholar.google.com/citations?user=slrzj8kAAAAJ)**
 
 **[WWW'25] 50 Shades of Deceptive Patterns: A Unified Taxonomy, Multimodal Detection, and Security Implications** <br />
 Zewei Shi, Ruoxi Sun, **Jieshan Chen**, Jiamou Sun, Jason Xue, Yansong Gao, Feng Liu, Xingliang Yuan <br />
@@ -79,11 +81,11 @@ Nov 2023 · [ACM](https://dl.acm.org/doi/10.1145/3638247) · [ArXiv](https://arx
 Qing Huang, Zhenyu Wan, Zhenchang Xing, Changjing Wang, **Jieshan Chen**, Xiwei Xu, Qinghua Lu <br />
 [IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10298399) · Acceptance Rate 20.3% (134/661)
 
-**[Preprint] Towards Real Smart Apps: Investigating Human-AI Interactions in Smartphone On-Device AI Apps** <br />
+**[Preprint '23] Towards Real Smart Apps: Investigating Human-AI Interactions in Smartphone On-Device AI Apps** <br />
 Jason Ching Yuen Siu, **Jieshan Chen\***, Yujin Huang, Zhenchang Xing, Chunyang Chen <br />
 July 2023 · [ArXiv](https://arxiv.org/abs/2307.00756) 
 
-**[Preprint] Extracting Replayable Interactions from Videos of Mobile App Usage** <br />
+**[Preprint '22] Extracting Replayable Interactions from Videos of Mobile App Usage** <br />
 **Jieshan Chen**, Amanda Swearngin, Jason Wu, Titus Barik, Jeffrey Nichols and Xiaoyi Zhang <br />
 July 2022 · [PDF](/files/Preprint_2022_VideoReply.pdf)
 
@@ -104,9 +106,11 @@ July 2022 · [PDF](/files/Preprint_2022_VideoReply.pdf)
 🏆 ACM SIGSOFT Distinguished Paper Award <br /> 
 [PDF](/files/ICSE2020-predictContent.pdf) · [Talk](https://www.youtube.com/watch?v=zoRu7UOXAeY&list=PLh7v-bsdypMGkREL9PPVczHtaVLlL4P5h&index=5) · [Code](https://github.com/chenjshnn/LabelDroid) · Acceptance Rate 20.9% (129/617)
 
+<!--
 **[IJCNN'17] Ensemble Application of Convolutional and Recurrent Neural Networks for Multi-label Text Categorization.** <br />
 Guibin Chen, Deheng Ye, Zhenchang Xing, ***Jieshan Chen***, and Erik Cambria. <br />
 [PDF](https://ieeexplore.ieee.org/document/7966144/keywords)
+-->
 
 \* means corresponding authors.
 
