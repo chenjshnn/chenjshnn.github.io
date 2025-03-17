@@ -32,12 +32,15 @@ Jieshan has published papers at top-tier CORE A* ranked conferences/journals, in
 - [2024-07] One paper accepted at UIST 2024.
 - [2024-06] Two papers accepted at TOSEM 2024
 - [2024-06-14] Call for paper for CCS'24 LAMPS Workshop (https://lamps-ccs.com/)!
+<details>
+<summary>2023</summary>
 - [2023-12] Our paper "Where is it? Tracing the Vulnerability-relevant Files from Vulnerability Reports" is accepted by ICSE'2024!
 - [2023-12-05] Our paper "Prompt Sapper: A LLM-Empowered Production Tool for Building AI Chains" is accepted by TOSEM 2023!
 - [2023-11] Invited as a PC Member for ICSE 2025
 - [2023-08-05] Our paper "Unveiling the tricks: automated detection of dark pattern in mobile applications" is accepted by [UIST 2023](https://uist.acm.org/2023/)
 - [2023-07] Invited as a PC Member for SANER 2024
 - [2023-05] Invited as a PC Member for ASE 2023
+</details>
 <details>
 <summary>2022</summary>
 - [2022-12-01] Selected as a Junior PC Member at MSR 2023
