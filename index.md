@@ -34,18 +34,18 @@ Jieshan has published papers at top-tier CORE A* ranked conferences/journals, in
 - [2024-06-14] Call for paper for CCS'24 LAMPS Workshop (https://lamps-ccs.com/)!
 <details>
 <summary>> <a> 2023 </a></summary>
-- [2023-12] Our paper "Where is it? Tracing the Vulnerability-relevant Files from Vulnerability Reports" is accepted by ICSE'2024!
-- [2023-12-05] Our paper "Prompt Sapper: A LLM-Empowered Production Tool for Building AI Chains" is accepted by TOSEM 2023!
-- [2023-11] Invited as a PC Member for ICSE 2025
-- [2023-08-05] Our paper "Unveiling the tricks: automated detection of dark pattern in mobile applications" is accepted by [UIST 2023](https://uist.acm.org/2023/)
-- [2023-07] Invited as a PC Member for SANER 2024
-- [2023-05] Invited as a PC Member for ASE 2023
+- [2023-12] Our paper "Where is it? Tracing the Vulnerability-relevant Files from Vulnerability Reports" is accepted by ICSE'2024!  <br />
+- [2023-12-05] Our paper "Prompt Sapper: A LLM-Empowered Production Tool for Building AI Chains" is accepted by TOSEM 2023!  <br />
+- [2023-11] Invited as a PC Member for ICSE 2025  <br />
+- [2023-08-05] Our paper "Unveiling the tricks: automated detection of dark pattern in mobile applications" is accepted by [UIST 2023](https://uist.acm.org/2023/)  <br />
+- [2023-07] Invited as a PC Member for SANER 2024  <br />
+- [2023-05] Invited as a PC Member for ASE 2023  <br />
 </details>
 <details>
 <summary>> <a> 2022 </a></summary>
-- [2022-12-01] Selected as a Junior PC Member at MSR 2023
-- [2022-08-31] Gave a talk titled **"Understanding Fairness Issues in Machine Unlearning and Dark Pattern"** at [NIST Workshop on Mitigating AI Bias in Context](https://www.nccoe.nist.gov/get-involved/attend-events/workshop-mitigating-ai-bias-context) 
-- [2022-07-08] Released a preprint version of our work **"Extracting Replayable Interactions from Videos of Mobile App Usage"**
+<p>- [2022-12-01] Selected as a Junior PC Member at MSR 2023  <p/>
+<p>- [2022-08-31] Gave a talk titled **"Understanding Fairness Issues in Machine Unlearning and Dark Pattern"** at [NIST Workshop on Mitigating AI Bias in Context](https://www.nccoe.nist.gov/get-involved/attend-events/workshop-mitigating-ai-bias-context)   <p/>
+- [2022-07-08] Released a preprint version of our work **"Extracting Replayable Interactions from Videos of Mobile App Usage"** 
 - [2022-01-10] Joined CSIRO's Data61 as a research scientist
 - [2021-11-16] Our paper **"Towards Complete Icon Labeling in Mobile Applications"** accepted at [CHI 2022](https://chi2022.acm.org/)
 - [2021-05-26] Presented our paper **"Wireframe-based UI Design Search through Image Autoencoder"** at ICSE 2021
