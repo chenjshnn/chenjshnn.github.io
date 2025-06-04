@@ -84,14 +84,6 @@ Nov 2023 · [ACM](https://dl.acm.org/doi/10.1145/3638247) · [ArXiv](https://arx
 Qing Huang, Zhenyu Wan, Zhenchang Xing, Changjing Wang, **Jieshan Chen**, Xiwei Xu, Qinghua Lu <br />
 [IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10298399) · Acceptance Rate 20.3% (134/661)
 
-**[Preprint '23] Towards Real Smart Apps: Investigating Human-AI Interactions in Smartphone On-Device AI Apps** <br />
-Jason Ching Yuen Siu, **Jieshan Chen\***, Yujin Huang, Zhenchang Xing, Chunyang Chen <br />
-July 2023 · [ArXiv](https://arxiv.org/abs/2307.00756) 
-
-**[Preprint '22] Extracting Replayable Interactions from Videos of Mobile App Usage** <br />
-**Jieshan Chen**, Amanda Swearngin, Jason Wu, Titus Barik, Jeffrey Nichols and Xiaoyi Zhang <br />
-July 2022 · [PDF](/files/Preprint_2022_VideoReply.pdf)
-
 **[CHI'22] Towards Complete Icon Labeling in Mobile Applications** <br />
 ***Jieshan Chen***, Amanda Swearngin, Jason Wu, Titus Barik, Jeffrey Nichols and Xiaoyi Zhang. <br />
 [PDF](/files/CHI_2022_Icon.pdf) · [Talk](https://www.youtube.com/watch?v=3eaTDpBfqQM&ab_channel=ACMSIGCHI) · Acceptance Rate 12.5% (324/2,597) · [Available in iOS](https://machinelearning.apple.com/research/icon-labelling)
@@ -109,11 +101,6 @@ July 2022 · [PDF](/files/Preprint_2022_VideoReply.pdf)
 🏆 ACM SIGSOFT Distinguished Paper Award <br /> 
 [PDF](/files/ICSE2020-predictContent.pdf) · [Talk](https://www.youtube.com/watch?v=zoRu7UOXAeY&list=PLh7v-bsdypMGkREL9PPVczHtaVLlL4P5h&index=5) · [Code](https://github.com/chenjshnn/LabelDroid) · Acceptance Rate 20.9% (129/617)
 
-<!--
-**[IJCNN'17] Ensemble Application of Convolutional and Recurrent Neural Networks for Multi-label Text Categorization.** <br />
-Guibin Chen, Deheng Ye, Zhenchang Xing, ***Jieshan Chen***, and Erik Cambria. <br />
-[PDF](https://ieeexplore.ieee.org/document/7966144/keywords)
--->
 
 \* means corresponding authors.
 
