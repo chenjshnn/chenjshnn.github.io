@@ -25,6 +25,9 @@ body {
     @include flex(0 0 auto);
   }
   .container {
+    position: sticky;
+    top: 0;
+    z-index: 999;  
     @include flexbox;
     @include flex-direction(row);
     @include justify-content(space-between);
@@ -33,13 +36,6 @@ body {
       @include align-items(center);
     }
   }
-}
-
-.container {
-  position: sticky;
-  top: 0;
-  z-index: 999;
-  background: $backgroundColour;
 }
 
 .header .nav {
