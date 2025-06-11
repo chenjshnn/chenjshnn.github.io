@@ -93,7 +93,7 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Jieshan Chen" # Site name or title, also used in jekyll-seo-tag
+title: "Jieshan Chen | CSIRO's Data61" # Site name or title, also used in jekyll-seo-tag
 logo:  Jieshan Chen # Site logo, also used in jekyll-seo-tag
 description: "Jieshan Chen" # Site description and default description, also used in jekyll-seo-tag
 url: "https://chenjshnn.github.io/" # Site url, also used in jekyll-seo-tag
@@ -127,6 +127,8 @@ navigation_header:
   url: /#news
 - title: Publications
   url: /#publications
+- title: Services
+  url: /#services
 - title: CV
   url: /files/JieshanChen_CV.pdf
 
