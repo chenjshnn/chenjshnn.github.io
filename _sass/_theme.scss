@@ -35,10 +35,14 @@ body {
   }
 }
 
-.header .nav {
-  position: fixed;
+.header {
+  position: sticky;
   top: 0;
-  right: 0;
+  z-index: 999;
+  background: $backgroundColour;
+}
+
+.header .nav {
   display: flex;
   flex-direction: column-reverse;
   align-items: flex-end;
