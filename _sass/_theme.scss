@@ -25,6 +25,9 @@ body {
     @include flex(0 0 auto);
   }
   .container {
+    position: fixed;
+    top: 0;
+    right: 0;
     @include flexbox;
     @include flex-direction(row);
     @include justify-content(space-between);
