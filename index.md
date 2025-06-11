@@ -21,7 +21,7 @@ Jieshan has published papers at top-tier CORE A* ranked conferences/journals, in
 
 
 
-### News
+### News {#news}
 - [2025-02] Invited as a PC Member for ASE 2025
 - [2025-01-20] Two papers accepted at [WWW'2025](https://www2025.thewebconf.org/)
 - [2024-12] Invited as a PC Member for ICSE 2026
@@ -52,7 +52,7 @@ Jieshan has published papers at top-tier CORE A* ranked conferences/journals, in
 </details>
 
 
-### Selected Publications
+### Selected Publications {#publications}
 
 **Please see full the publication list in [Google Scholar](https://scholar.google.com/citations?user=slrzj8kAAAAJ)**
 
@@ -104,7 +104,7 @@ Qing Huang, Zhenyu Wan, Zhenchang Xing, Changjing Wang, **Jieshan Chen**, Xiwei 
 
 \* means corresponding authors.
 
-### Service
+### Service {#services}
 **Organising Committee** <br />
 · ACM Conference on Computer and Communications Security ([CCS’24 – LAMPS Workshop, Program Co-Chair](https://lamps-ccs.com/))
 
