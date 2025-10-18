@@ -22,6 +22,8 @@ Jieshan has published papers at top-tier CORE A* ranked conferences/journals, in
 
 
 ### News {#news}
+- [2025-10] Our paper "Towards Human-AI Synergy in UI Design: Supporting Iterative Generation with LLMs" just get accepted by TOCHI.
+- [2025-07] Our International Workshop on Responsible AI Engineering ([RAIE2026@ICSE](https://conf.researchr.org/home/icse-2026/raie-2026#Call-for-Papers)) is accepted and will be co-located with ICSE2026. Welcome your submission! 
 - [2025-02] Invited as a PC Member for ASE 2025
 - [2025-01-20] Two papers accepted at [WWW'2025](https://www2025.thewebconf.org/)
 - [2024-12] Invited as a PC Member for ICSE 2026
@@ -55,6 +57,10 @@ Jieshan has published papers at top-tier CORE A* ranked conferences/journals, in
 ### Selected Publications {#publications}
 
 **Please see full the publication list in [Google Scholar](https://scholar.google.com/citations?user=slrzj8kAAAAJ)**
+
+**[TOCHI'25] Towards Human-AI Synergy in UI Design: Supporting Iterative Generation with LLMs** <br />
+Mingyue Yuan, **Jieshan Chen\***, Yongquan Hu, Sidong Feng, Mulong Xie, Gelareh Mohammadi, Zhenchang Xing, Aaron Quigley
+To appear
 
 **[WWW'25] 50 Shades of Deceptive Patterns: A Unified Taxonomy, Multimodal Detection, and Security Implications** <br />
 Zewei Shi, Ruoxi Sun, **Jieshan Chen**, Jiamou Sun, Jason Xue, Yansong Gao, Feng Liu, Xingliang Yuan <br />
@@ -106,6 +112,7 @@ Qing Huang, Zhenyu Wan, Zhenchang Xing, Changjing Wang, **Jieshan Chen**, Xiwei 
 
 ### Service {#services}
 **Organising Committee** <br />
+· 4th International Workshop on Responsible AI Engineering  ([RAIE@ICSE2026, Organisation Co-Chair](https://conf.researchr.org/home/icse-2026/raie-2026#Call-for-Papers))
 · ACM Conference on Computer and Communications Security ([CCS’24 – LAMPS Workshop, Program Co-Chair](https://lamps-ccs.com/))
 
 **Program Committee** <br />
@@ -124,7 +131,7 @@ Qing Huang, Zhenyu Wan, Zhenchang Xing, Changjing Wang, **Jieshan Chen**, Xiwei 
 **Reviewer** <br />
 · AACM Transactions on Computer-Human Interaction (TOCHI'24) <br />
 · ACM Symposium on User Interface Software and Technology (UIST'22, UIST'24) <br />
-· ACM CHI Conference on Human Factors in Computing Systems (CHI'22, CHI'23, CHI'24, CHI'25) <br />
+· ACM CHI Conference on Human Factors in Computing Systems (CHI'22, CHI'23, CHI'24, CHI'25, CHI'26) <br />
 · ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW'24) <br />
 · International Conference on Software Engineering (ICSE'24) <br />
 · IEEE Transactions on Software Engineering and Methodology (TOSEM'24) <br />
