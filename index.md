@@ -1,7 +1,7 @@
 ---
 title: About me
 feature_text: |
-  <image height="200dp" width="200dp" src="/files/avatar.jpg" style="border-radius: 50%;" /> 
+  <image height="200dp" width="200dp" src="/files/avatar2.jpg" style="border-radius: 50%;" /> 
   ## Jieshan Chen 陈洁珊
   Research Scientist at CSIRO's Data61 <br>
   <span color="#f68140">&#9993;</span>  [Jieshan.Chen@data61.csiro.au](mailto:Jieshan.Chen@data61.csiro.au) · 
@@ -60,19 +60,19 @@ Jieshan has published papers at top-tier CORE A* ranked conferences/journals, in
 
 **[TOCHI'25] Towards Human-AI Synergy in UI Design: Supporting Iterative Generation with LLMs** <br />
 Mingyue Yuan, **Jieshan Chen\***, Yongquan Hu, Sidong Feng, Mulong Xie, Gelareh Mohammadi, Zhenchang Xing, Aaron Quigley
-To appear
+To appear · [Preprint](https://arxiv.org/abs/2412.20071)
 
 **[WWW'25] 50 Shades of Deceptive Patterns: A Unified Taxonomy, Multimodal Detection, and Security Implications** <br />
 Zewei Shi, Ruoxi Sun, **Jieshan Chen**, Jiamou Sun, Jason Xue, Yansong Gao, Feng Liu, Xingliang Yuan <br />
-To appear · Acceptance rate: 19.8% (409/2062) - Oral
+[ACM](https://dl.acm.org/doi/abs/10.1145/3696410.3714593) · Acceptance rate: 19.8% (409/2062) - Oral
 
 **[ICSE'25] DesignRepair: Dual-Stream Design Guideline-Aware Frontend Repair with Large Language Models** <br />
 Mingyue Yuan, **Jieshan Chen\***, Zhenchang Xing, Aaron Quigley, Yuyu Luo, Gelareh Mohammadi, Qinghua Lu, Liming Zhu <br />
-[Arxiv](https://arxiv.org/pdf/2411.01606) · [GitHub](https://github.com/UGAIForge/DesignRepair2024) · Acceptance rate: 21.3% (245/1150)
+[IEEE/ACM](https://dl.acm.org/doi/10.1109/ICSE55347.2025.00109) · [Preprint](https://arxiv.org/pdf/2411.01606) · [GitHub](https://github.com/UGAIForge/DesignRepair2024) · Acceptance rate: 21.3% (245/1150)
 
 **[UIST'24] GPTVoiceTasker: Advancing Multi-step Mobile Task Efficiency Through Dynamic Interface Exploration and Learning** <br />
 Minh Duc Vu, Han Wang, Zhuang Li, **Jieshan Chen**, Shengdong Zhao, Zhenchang Xing, Chunyang Chen  <br />
-[ACM](https://dl.acm.org/doi/10.1145/3654777.3676356) · [Arxiv](https://arxiv.org/pdf/2401.14268) · [GitHub](https://github.com/vuminhduc796/GPTVoiceTasker) · Acceptance rate: 24% (146/608)
+[ACM](https://dl.acm.org/doi/10.1145/3654777.3676356) · [Preprint](https://arxiv.org/pdf/2401.14268) · [GitHub](https://github.com/vuminhduc796/GPTVoiceTasker) · Acceptance rate: 24% (146/608)
 
 **[ICSE'24] Where is it? Tracing the Vulnerability-relevant Files from Vulnerability Reports** <br />
 Jiamou Sun, **Jieshan Chen**, Zhenchang Xing, Qinghua Lu, Xiwei (Sherry) Xu, Liming Zhu <br />
@@ -80,11 +80,11 @@ Jiamou Sun, **Jieshan Chen**, Zhenchang Xing, Qinghua Lu, Xiwei (Sherry) Xu, Lim
 
 **[TOSEM'23] Prompt Sapper: A LLM-Empowered Production Tool for Building AI Chains** <br />
 Yu Cheng, **Jieshan Chen\***, Qing Huang, Zhenchang Xing, Xiwei Xu, Qinghua Lu <br />
-Nov 2023 · [ACM](https://dl.acm.org/doi/10.1145/3638247) · [ArXiv](https://arxiv.org/pdf/2306.12028) · [Talk](https://www.youtube.com/watch?v=6QZW8WjYesI&lc=Ugyadp9ya26_0qr0g0p4AaABAg) · [Tool](https://www.aichain.online/)
+Nov 2023 · [ACM](https://dl.acm.org/doi/10.1145/3638247) · [Preprint](https://arxiv.org/pdf/2306.12028) · [Talk](https://www.youtube.com/watch?v=6QZW8WjYesI&lc=Ugyadp9ya26_0qr0g0p4AaABAg) · [Tool](https://www.aichain.online/)
 
 **[UIST'23] Unveiling the tricks: automated detection of dark pattern in mobile applications** <br />
 ***Jieshan Chen***, Jiamou Sun, Sidong Feng, Zhenchang Xing, Qinghua Lu and Chunyang Chen <br />
-[ACM](https://dl.acm.org/doi/10.1145/3586183.3606783) · [ArXiv](https://arxiv.org/pdf/2308.05898.pdf) · [Talk](https://m.youtube.com/watch?v=PkXHuPkatpk&t=16167s) · [Dataset](https://zenodo.org/records/8126443) · [Code](https://github.com/chenjshnn/UIST23-UIGuard) · Acceptance Rate 25% (121/483)
+[ACM](https://dl.acm.org/doi/10.1145/3586183.3606783) · [Preprint](https://arxiv.org/pdf/2308.05898.pdf) · [Talk](https://m.youtube.com/watch?v=PkXHuPkatpk&t=16167s) · [Dataset](https://zenodo.org/records/8126443) · [Code](https://github.com/chenjshnn/UIST23-UIGuard) · Acceptance Rate 25% (121/483)
 
 **[ASE'23] Let's Chat to Find the APIs: Connecting Human, LLM and Knowledge Graph through AI Chain** <br />
 Qing Huang, Zhenyu Wan, Zhenchang Xing, Changjing Wang, **Jieshan Chen**, Xiwei Xu, Qinghua Lu <br />
