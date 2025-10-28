@@ -19,9 +19,9 @@ Jieshan is currently a **research scientist** and **UI intelligence team lead** 
 She works at the intersection of **software engineering** and **human–computer interaction**, driven by a passion for solving real-world problems that meaningfully impact people’s everyday lives. Her research focuses on **human-centred software engineering, software usability, and UI intelligence**, with the long-term goal of creating intelligent software that co-evolves with people—understanding human intent, supporting collaboration, and ensuring transparency and trust.
 
 Specifically, her work aims to: <br />
-(1) advance human–AI collaboration through mutual intent clarification and adaptive understanding in GUI design generation; <br />
-(2) democratise access to complex and intelligent software systems, making them usable regardless of users’ expertise or ability; and <br />
-(3) govern manipulative behaviours in digital interfaces to promote fairness and accountability.
+(1) advance human–AI collaboration through mutual intent clarification and adaptive understanding in GUI design generation (e.g., TOSEM20, TOCHI25, ICSE25); <br />
+(2) democratise access to complex and intelligent software systems, making them usable regardless of users’ expertise or ability (e.g., ICSE20, FSE20, CHI22, UIST24, TOSEM23); and <br />
+(3) govern manipulative behaviours in digital interfaces to promote fairness and accountability (e.g., UIST23, WWW25).
 
 She currently leads projects on detecting deceptive patterns, advancing UI design search and generation, enhancing mobile application usability and accessibility, and improving the robustness of agentic systems.. Her research outcomes have been integrated into industrial tools adopted by major companies such as Apple and Alibaba, ultimately benefiting billions of end-users worldwide.
 
