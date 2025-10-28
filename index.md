@@ -23,7 +23,7 @@ She works at the intersection of **software engineering** and **human–computer
 
 She currently leads projects on detecting deceptive patterns, advancing UI design search and generation, enhancing mobile application usability and accessibility, and improving the robustness of agentic systems.. Her research outcomes have been integrated into industrial tools adopted by major companies such as Apple and Alibaba, ultimately benefiting billions of end-users worldwide.
 
-Jieshan has published papers at top-tier CORE A* ranked conferences/journals, including ICSE, FSE, UIST, CHI, TOSEM and USENIX Security, and contanstly serves as PC members and reviewers for top-tier conferences and journal. She got one SIGSOFT Distinguished Paper Award at ICSE2020. See her [Google Scholar Page](https://scholar.google.com/citations?user=slrzj8kAAAAJ) for more details.
+Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE, ASE, UIST, CHI, TOSEM and TOCHI, and contanstly serves as PC members and reviewers for top-tier conferences and journal. She got one SIGSOFT Distinguished Paper Award at ICSE2020. See her [Google Scholar Page](https://scholar.google.com/citations?user=slrzj8kAAAAJ) for more details.
 
 
 
