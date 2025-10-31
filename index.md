@@ -66,7 +66,7 @@ Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE,
 
 **[TOCHI'25] Towards Human-AI Synergy in UI Design: Supporting Iterative Generation with LLMs** <br />
 Mingyue Yuan, **Jieshan Chen\***, Yongquan Hu, Sidong Feng, Mulong Xie, Gelareh Mohammadi, Zhenchang Xing, Aaron Quigley  <br />
-[ACM](https://dl.acm.org/doi/10.1145/3773035) · [Preprint](https://arxiv.org/abs/2412.20071)
+[ACM](https://dl.acm.org/doi/10.1145/3773035) 
 
 **[WWW'25] 50 Shades of Deceptive Patterns: A Unified Taxonomy, Multimodal Detection, and Security Implications** <br />
 Zewei Shi, Ruoxi Sun, **Jieshan Chen**, Jiamou Sun, Jason Xue, Yansong Gao, Feng Liu, Xingliang Yuan <br />
