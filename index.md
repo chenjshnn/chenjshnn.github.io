@@ -18,7 +18,7 @@ Jieshan is currently a **research scientist** and **UI intelligence team lead** 
 
 She works at the intersection of **software engineering** and **human–computer interaction**, driven by a passion for solving real-world problems that meaningfully impact people’s everyday lives. Her research focuses on **software usability, and UI engineering**, with the long-term goal of creating intelligent software that co-evolves with people—understanding human intent, supporting collaboration, and ensuring transparency and trust. <br />
 
-Specifically, her work aims to: 
+Specifically, she is currently working on three research topics: <br />
 (1) **GUI design generation and repair** (e.g., TOSEM20, TOCHI25, ICSE25); <br />
 (2) **Software and AI usability and accessibility** (e.g., ICSE20, FSE20, CHI22, UIST24, TOSEM23); and <br />
 (3) **Deceptive Pattern detection and prevention** (e.g., UIST23, WWW25).
