@@ -30,6 +30,7 @@ Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE,
 
 
 ### News {#news}
+- [2025-11] I just get promoted to be a senior research scientist at CSIRO's Data61. Cheers!
 - [2025-10] Our paper "Towards Human-AI Synergy in UI Design: Supporting Iterative Generation with LLMs" just get accepted by TOCHI.
 - [2025-07] Our International Workshop on Responsible AI Engineering ([RAIE2026@ICSE](https://conf.researchr.org/home/icse-2026/raie-2026#Call-for-Papers)) is accepted and will be co-located with ICSE2026. Welcome your submission! 
 - [2025-02] Invited as a PC Member for ASE 2025
