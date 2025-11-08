@@ -16,16 +16,16 @@ Specifically, through UI engineering, my work aims to (1) advance human–AI col
 
 Jieshan is currently a **senior research scientist** and **UI intelligence team lead** at **CSIRO's Data61**, and the first **TUM-IAS Dieter Schwarz fellow** from 2024-2027. She received her Ph.D. degree in computer science at Australian National University, where she was advised by [Zhenchang Xing](https://cecs.anu.edu.au/people/zhenchang-xing).
 
-She works at the intersection of **software engineering** and **human–computer interaction**, driven by a passion for solving real-world problems that meaningfully impact people’s everyday lives. Her research focuses on **software usability, and UI engineering**, with the long-term goal of creating intelligent software that co-evolves with people—understanding human intent, supporting collaboration, and ensuring transparency and trust. <br />
+She works at the intersection of **software engineering** and **human–computer interaction**, driven by a passion for solving real-world problems that meaningfully impact people’s everyday lives. Her research focuses on **software usability, and UI engineering**, with the long-term goal of creating intelligent software that co-evolves with people, understanding human intent, supporting collaboration, and ensuring transparency and trust. <br />
 
 Specifically, she is currently working on three research topics: <br />
 (1) **GUI design generation and repair** (e.g., TOSEM20, TOCHI25, ICSE25); <br />
-(2) **Software and AI usability and accessibility** (e.g., ICSE20, FSE20, CHI22, UIST24, TOSEM23); and <br />
-(3) **Deceptive Pattern detection and prevention** (e.g., UIST23, WWW25).
+(2) **Software and AI usability and accessibility** (e.g., ICSE20, FSE20, CHI22, UIST24, TOSEM23); <br />
+(3) **Deceptive Pattern detection and prevention** (e.g., UIST23, WWW25); and  <br />
+(4) **agentic systems**<br />
 
-She currently leads projects on detecting deceptive patterns, advancing UI design search and generation, enhancing mobile application usability and accessibility, and improving the robustness of agentic systems.. Her research outcomes have been integrated into industrial tools adopted by major companies such as Apple and Alibaba, ultimately benefiting billions of end-users worldwide.
 
-Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE, ASE, UIST, CHI, TOSEM and TOCHI, and contanstly serves as PC members and reviewers for top-tier conferences and journal. She got one SIGSOFT Distinguished Paper Award at ICSE2020. See her [Google Scholar Page](https://scholar.google.com/citations?user=slrzj8kAAAAJ) for more details.
+Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE, ASE, UIST, CHI, TOSEM and TOCHI, and contanstly serves as PC members and reviewers for top-tier conferences and journal. She got one SIGSOFT Distinguished Paper Award at ICSE2020. Her research outcomes have been integrated into industrial tools adopted by major companies such as Apple and Alibaba, ultimately benefiting billions of end-users worldwide. See her [Google Scholar Page](https://scholar.google.com/citations?user=slrzj8kAAAAJ) for more details.
 
 
 
