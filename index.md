@@ -16,7 +16,7 @@ Specifically, through UI engineering, my work aims to (1) advance human–AI col
 
 Jieshan is currently a **senior research scientist** and **UI intelligence team lead** at **CSIRO's Data61**, and the first **TUM-IAS Dieter Schwarz fellow** from 2024-2027. She received her Ph.D. degree in computer science at Australian National University, where she was advised by [Zhenchang Xing](https://cecs.anu.edu.au/people/zhenchang-xing) and Chunyang Chen.
 
-She works at the intersection of **software engineering** and **human–computer interaction**, driven by a passion for solving real-world problems that meaningfully impact people’s everyday lives. Her research focuses on **software usability, and UI engineering**, with the long-term goal of creating intelligent software that co-evolves with people, understanding human intent, supporting collaboration, and ensuring transparency and trust. <br />
+She works at the intersection of **software engineering** and **human–computer interaction**, driven by a passion for solving real-world problems that meaningfully impact people’s everyday lives. Her research focuses on **software usability, UI engineering and Responsible AI**, with the long-term goal of creating intelligent software that co-evolves with people, understanding human intent, supporting collaboration, and ensuring transparency and trust. <br />
 
 Specifically, she is currently working on four research topics: <br />
 (1) **GUI design generation and repair** (e.g., TOSEM20, TOCHI25, ICSE25); <br />
