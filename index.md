@@ -22,7 +22,7 @@ Specifically, she is currently working on four research topics: <br />
 (1) **GUI design generation and repair** (e.g., TOSEM20, TOCHI25, ICSE25); <br />
 (2) **Software and AI usability and accessibility** (e.g., ICSE20, FSE20, CHI22, UIST24, TOSEM23); <br />
 (3) **Deceptive pattern detection and prevention** (e.g., UIST23, WWW25); and  <br />
-(4) **Agentic systems**<br />
+(4) **Agentic systems and AI risk assessment**<br />
 
 
 Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE, ASE, UIST, CHI, TOSEM and TOCHI, and contanstly serves as PC members and reviewers for top-tier conferences and journal. She got one SIGSOFT Distinguished Paper Award at ICSE2020. Her research outcomes have been integrated into industrial tools adopted by major companies such as Apple and Alibaba, ultimately benefiting billions of end-users worldwide. See her [Google Scholar Page](https://scholar.google.com/citations?user=slrzj8kAAAAJ) for more details.
