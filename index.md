@@ -35,6 +35,9 @@ Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE,
 - [2025-07] Our International Workshop on Responsible AI Engineering ([RAIE2026@ICSE](https://conf.researchr.org/home/icse-2026/raie-2026#Call-for-Papers)) is accepted and will be co-located with ICSE2026. Welcome your submission! 
 - [2025-02] Invited as a PC Member for ASE 2025
 - [2025-01-20] Two papers accepted at [WWW'2025](https://www2025.thewebconf.org/)
+
+<details>
+<summary><a> > 2024 </a></summary>
 - [2024-12] Invited as a PC Member for ICSE 2026
 - [2024-12-16] Gave a guest lecture on software usability and accessibility at TUM
 - [2024-12-09] Gave a keynote titled "Empowering Users to Detect and Prevent Cyber Threat Through UI Awareness" at [ICDM 2024 - ML4Cyber workshop](https://ml4cyber.github.io/24/)
@@ -43,6 +46,8 @@ Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE,
 - [2024-07] One paper accepted at UIST 2024.
 - [2024-06] Two papers accepted at TOSEM 2024
 - [2024-06-14] Call for paper for CCS'24 LAMPS Workshop (https://lamps-ccs.com/)!
+</details>
+
 <details>
 <summary><a> > 2023 </a></summary>
 - [2023-12] Our paper "Where is it? Tracing the Vulnerability-relevant Files from Vulnerability Reports" is accepted by ICSE'2024!  <br />
@@ -52,6 +57,7 @@ Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE,
 - [2023-07] Invited as a PC Member for SANER 2024  <br />
 - [2023-05] Invited as a PC Member for ASE 2023  <br />
 </details>
+
 <details>
 <summary><a> > 2022 </a></summary>
 - [2022-12-01] Selected as a Junior PC Member at MSR 2023  <br />
@@ -125,9 +131,9 @@ Qing Huang, Zhenyu Wan, Zhenchang Xing, Changjing Wang, **Jieshan Chen**, Xiwei 
 · ACM Conference on Computer and Communications Security ([CCS’24 – LAMPS Workshop, Program Co-Chair](https://lamps-ccs.com/))
 
 **Program Committee** <br />
+· International Conference on Software Engineering ([ICSE'25](https://conf.researchr.org/track/icse-2025/icse-2025-research-track), ICSE'26, ICSE'27) <br />
 · IEEE/ACM International Conference on Automated Software Engineering ([ASE'23](https://conf.researchr.org/committee/ase-2023/ase-2023-papers-program-committee), [ASE’24-Artifact Evaluation](https://conf.researchr.org/track/ase-2024/ase-2024-artifact-evaluation-track)), [ASE'25]() <br />
 · ACM international conference on AI Foundation Models and Software Engineering ([FORGE'25-Data and Benchmarking](https://conf.researchr.org/committee/forge-2025/forge-2025-benchmarking-organization-committee)) <br />
-· International Conference on Software Engineering ([ICSE'25](https://conf.researchr.org/track/icse-2025/icse-2025-research-track), ICSE'26) <br />
 · ACM SIGSOFT International Symposium on Software Testing and Analysis ([ISSTA'24](https://2024.issta.org/track/issta-2024-papers)) <br />
 · IEEE International Conference on Software Analysis, Evolution and Reengineering ([SANER'24-ERA](https://conf.researchr.org/committee/saner-2024/saner-2024-early-research-achievement--era--track--program-commitee), [SANER'25-ERA](https://conf.researchr.org/committee/saner-2025/saner-2025-early-research-achievement--era--track--program-commitee)) <br />
 · ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering ([ESEC/FSE 2023-SRC](https://2023.esec-fse.org/committee/fse-2023-student-research-competition-program-committee)) <br />
@@ -138,12 +144,12 @@ Qing Huang, Zhenyu Wan, Zhenchang Xing, Changjing Wang, **Jieshan Chen**, Xiwei 
 · ACM CHI Conference on Human Factors in Computing Systems ([CHI'22-Computational UI Workshop](https://sites.google.com/nd.edu/computational-uichi22/home)) <br />
 
 **Reviewer** <br />
+· ACM CHI Conference on Human Factors in Computing Systems (CHI'22, CHI'23, CHI'24, CHI'25, CHI'26) <br />
+· IEEE Transactions on Software Engineering and Methodology (TOSEM'24, TOSEM'25) <br />
 · AACM Transactions on Computer-Human Interaction (TOCHI'24) <br />
 · ACM Symposium on User Interface Software and Technology (UIST'22, UIST'24) <br />
-· ACM CHI Conference on Human Factors in Computing Systems (CHI'22, CHI'23, CHI'24, CHI'25, CHI'26) <br />
 · ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW'24) <br />
 · International Conference on Software Engineering (ICSE'24) <br />
-· IEEE Transactions on Software Engineering and Methodology (TOSEM'24) <br />
 · IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR'23) <br />
 · ACM international joint conference on pervasive and ubiquitous computing (UbiComp'22) <br />
 · International Journal of Human-Computer Interaction (IJHCI'22) <br />
