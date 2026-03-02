@@ -30,22 +30,22 @@ Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE,
 
 
 ### News {#news}
-- [2025-11] I just get promoted to be a senior research scientist at CSIRO's Data61. Cheers!
-- [2025-10] Our paper "Towards Human-AI Synergy in UI Design: Supporting Iterative Generation with LLMs" just get accepted by TOCHI.
-- [2025-07] Our International Workshop on Responsible AI Engineering ([RAIE2026@ICSE](https://conf.researchr.org/home/icse-2026/raie-2026#Call-for-Papers)) is accepted and will be co-located with ICSE2026. Welcome your submission! 
-- [2025-02] Invited as a PC Member for ASE 2025
-- [2025-01-20] Two papers accepted at [WWW'2025](https://www2025.thewebconf.org/)
+- [2025-11] I just get promoted to be a senior research scientist at CSIRO's Data61. Cheers!  <br />
+- [2025-10] Our paper "Towards Human-AI Synergy in UI Design: Supporting Iterative Generation with LLMs" just get accepted by TOCHI.  <br />
+- [2025-07] Our International Workshop on Responsible AI Engineering ([RAIE2026@ICSE](https://conf.researchr.org/home/icse-2026/raie-2026#Call-for-Papers)) is accepted and will be co-located with ICSE2026. Welcome your submission!   <br />
+- [2025-02] Invited as a PC Member for ASE 2025  <br />
+- [2025-01-20] Two papers accepted at [WWW'2025](https://www2025.thewebconf.org/)  <br />
 
 <details>
 <summary><a> 2024 </a></summary>
-- [2024-12] Invited as a PC Member for ICSE 2026
-- [2024-12-16] Gave a guest lecture on software usability and accessibility at TUM
-- [2024-12-09] Gave a keynote titled "Empowering Users to Detect and Prevent Cyber Threat Through UI Awareness" at [ICDM 2024 - ML4Cyber workshop](https://ml4cyber.github.io/24/)
-- [2024-11] One paper accepted at ICSE 2025.
-- [2024-08] I was awarded the [Dieter Schwarz Fellowship](https://www.cs.cit.tum.de/en/seai/news/article/dr-jieshan-chen-awarded-prestigious-dieter-schwarz-fellowship-at-tum/) funded by TUM-IAS as the first recipient.
-- [2024-07] One paper accepted at UIST 2024.
-- [2024-06] Two papers accepted at TOSEM 2024
-- [2024-06-14] Call for paper for CCS'24 LAMPS Workshop (https://lamps-ccs.com/)!
+- [2024-12] Invited as a PC Member for ICSE 2026  <br />
+- [2024-12-16] Gave a guest lecture on software usability and accessibility at TUM  <br />
+- [2024-12-09] Gave a keynote titled "Empowering Users to Detect and Prevent Cyber Threat Through UI Awareness" at [ICDM 2024 - ML4Cyber workshop](https://ml4cyber.github.io/24/)  <br />
+- [2024-11] One paper accepted at ICSE 2025.  <br />
+- [2024-08] I was awarded the [Dieter Schwarz Fellowship](https://www.cs.cit.tum.de/en/seai/news/article/dr-jieshan-chen-awarded-prestigious-dieter-schwarz-fellowship-at-tum/) funded by TUM-IAS as the first recipient.  <br />
+- [2024-07] One paper accepted at UIST 2024.  <br />
+- [2024-06] Two papers accepted at TOSEM 2024  <br />
+- [2024-06-14] Call for paper for CCS'24 LAMPS Workshop (https://lamps-ccs.com/)!  <br />
 </details>
 
 <details>
