@@ -37,7 +37,7 @@ Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE,
 - [2025-01-20] Two papers accepted at [WWW'2025](https://www2025.thewebconf.org/)  <br />
 
 <details>
-<summary><a> 2024 </a></summary>
+<summary><a> > 2024 </a></summary>
 - [2024-12] Invited as a PC Member for ICSE 2026  <br />
 - [2024-12-16] Gave a guest lecture on software usability and accessibility at TUM  <br />
 - [2024-12-09] Gave a keynote titled "Empowering Users to Detect and Prevent Cyber Threat Through UI Awareness" at [ICDM 2024 - ML4Cyber workshop](https://ml4cyber.github.io/24/)  <br />
@@ -49,7 +49,7 @@ Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE,
 </details>
 
 <details>
-<summary><a> 2023 </a></summary>
+<summary><a> > 2023 </a></summary>
 - [2023-12] Our paper "Where is it? Tracing the Vulnerability-relevant Files from Vulnerability Reports" is accepted by ICSE'2024!  <br />
 - [2023-12-05] Our paper "Prompt Sapper: A LLM-Empowered Production Tool for Building AI Chains" is accepted by TOSEM 2023!  <br />
 - [2023-11] Invited as a PC Member for ICSE 2025  <br />
@@ -59,7 +59,7 @@ Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE,
 </details>
 
 <details>
-<summary><a> 2022 and before </a></summary>
+<summary><a> > 2022 and before </a></summary>
 - [2022-12-01] Selected as a Junior PC Member at MSR 2023  <br />
 - [2022-08-31] Gave a talk titled **"Understanding Fairness Issues in Machine Unlearning and Dark Pattern"** at [NIST Workshop on Mitigating AI Bias in Context](https://www.nccoe.nist.gov/get-involved/attend-events/workshop-mitigating-ai-bias-context)   <br />
 - [2022-07-08] Released a preprint version of our work **"Extracting Replayable Interactions from Videos of Mobile App Usage"**  <br />
