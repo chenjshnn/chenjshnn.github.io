@@ -59,7 +59,7 @@ Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE,
 </details>
 
 <details>
-<summary><a> 2022 </a></summary>
+<summary><a> 2022 and before </a></summary>
 - [2022-12-01] Selected as a Junior PC Member at MSR 2023  <br />
 - [2022-08-31] Gave a talk titled **"Understanding Fairness Issues in Machine Unlearning and Dark Pattern"** at [NIST Workshop on Mitigating AI Bias in Context](https://www.nccoe.nist.gov/get-involved/attend-events/workshop-mitigating-ai-bias-context)   <br />
 - [2022-07-08] Released a preprint version of our work **"Extracting Replayable Interactions from Videos of Mobile App Usage"**  <br />
