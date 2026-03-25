@@ -10,11 +10,11 @@ feature_text: |
   [LinkedIn](https://www.linkedin.com/in/jieshan-chen-b27515161/) · 
   [Twitter](https://twitter.com/jieshanchen_)
 feature_image: 
-excerpt: "I am currently a research scientist and UI intelligence team lead at CSIRO's Data61, and the first TUM-IAS Dieter Schwarz fellow from 2024-2027. Before joining Data61, I pursued my Ph.D. degree in computer science at Australian National University. My work lies in the fields of software engineering, deep learning, and human computer interaction. My main research topics are around **human-centred software engineering**, **software usability** and **UI engineering**. My long-term goal is to create intelligent software that co-evolves with people—understanding human intent, supporting collaboration, and ensuring transparency and trust.
+excerpt: "I am currently a research scientist and UI intelligence team lead at CSIRO's Data61. Before joining Data61, I pursued my Ph.D. degree in computer science at Australian National University. My work lies in the fields of software engineering, deep learning, and human computer interaction. My main research topics are around **human-centred software engineering**, **software usability** and **UI engineering**. My long-term goal is to create intelligent software that co-evolves with people—understanding human intent, supporting collaboration, and ensuring transparency and trust.
 Specifically, through UI engineering, my work aims to (1) advance human–AI collaboration through mutual intent clarification and adaptive understanding in software GUI design generation; (2) democratise the use of complex and intelligent software and AI regardless of expertise and ability; and (3) govern manipulative behaviours in digital interfaces. " 
 ---
 
-Jieshan is currently a **senior research scientist** and **UI intelligence team lead** at **CSIRO's Data61**, and the first **TUM-IAS Dieter Schwarz fellow** from 2024-2027. She received her Ph.D. degree in computer science at Australian National University, where she was advised by [Zhenchang Xing](https://cecs.anu.edu.au/people/zhenchang-xing) and Chunyang Chen.
+Jieshan is currently a **senior research scientist** and **UI intelligence team lead** at **CSIRO's Data61**. She received her Ph.D. degree in computer science at Australian National University, where she was advised by [Zhenchang Xing](https://cecs.anu.edu.au/people/zhenchang-xing) and Chunyang Chen.
 
 She works at the intersection of **software engineering** and **human–computer interaction**, driven by a passion for solving real-world problems that meaningfully impact people’s everyday lives. Her research focuses on **software usability, UI engineering and Responsible AI**, with the long-term goal of creating intelligent software that co-evolves with people, understanding human intent, supporting collaboration, and ensuring transparency and trust. <br />
 
@@ -42,7 +42,7 @@ Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE,
 - [2024-12-16] Gave a guest lecture on software usability and accessibility at TUM  <br />
 - [2024-12-09] Gave a keynote titled "Empowering Users to Detect and Prevent Cyber Threat Through UI Awareness" at [ICDM 2024 - ML4Cyber workshop](https://ml4cyber.github.io/24/)  <br />
 - [2024-11] One paper accepted at ICSE 2025.  <br />
-- [2024-08] I was awarded the [Dieter Schwarz Fellowship](https://www.cs.cit.tum.de/en/seai/news/article/dr-jieshan-chen-awarded-prestigious-dieter-schwarz-fellowship-at-tum/) funded by TUM-IAS as the first recipient.  <br />
+- [2024-08] I was awarded the Dieter Schwarz Fellowship funded by TUM-IAS as the first recipient.  <br />
 - [2024-07] One paper accepted at UIST 2024.  <br />
 - [2024-06] Two papers accepted at TOSEM 2024  <br />
 - [2024-06-14] Call for paper for CCS'24 LAMPS Workshop (https://lamps-ccs.com/)!  <br />
