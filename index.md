@@ -75,7 +75,8 @@ Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE,
 **Please see full the publication list in [Google Scholar](https://scholar.google.com/citations?user=slrzj8kAAAAJ)**
 
 
-- **[TOSEM'26] From Exploration to Revelation: App-Level Context-Aware Deceptive Pattern Detection for Mobile Applications.** **Jieshan Chen\***, Zhen Wang, Jiamou Sun, Zhenchang Xing, Qinghua Lu, Qing Huang, Xiwei Xu, Liming Zhu. [Preprint](https://arxiv.org/abs/2411.18084) 
+- **[TOSEM'26] From Exploration to Revelation: App-Level Context-Aware Deceptive Pattern Detection for Mobile Applications.** **Jieshan Chen\***, Zhen Wang, Jiamou Sun, Zhenchang Xing, Qinghua Lu, Qing Huang, Xiwei Xu, Liming Zhu. [Preprint](https://arxiv.org/abs/2411.18084)
+<div style="margin-bottom: 16px;"></div>
 - **[TOCHI'25] Towards Human-AI Synergy in UI Design: Supporting Iterative Generation with LLMs.** Mingyue Yuan, **Jieshan Chen\***, Yongquan Hu, Sidong Feng, Mulong Xie, Gelareh Mohammadi, Zhenchang Xing, Aaron Quigley. [ACM](https://dl.acm.org/doi/10.1145/3773035) 
 - **[WWW'25] 50 Shades of Deceptive Patterns: A Unified Taxonomy, Multimodal Detection, and Security Implications.** 
 Zewei Shi, Ruoxi Sun, **Jieshan Chen**, Jiamou Sun, Jason Xue, Yansong Gao, Feng Liu, Xingliang Yuan.
