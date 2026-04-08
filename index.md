@@ -74,7 +74,8 @@ Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE,
 
 **Please see full the publication list in [Google Scholar](https://scholar.google.com/citations?user=slrzj8kAAAAJ)**
 
-
+<div class="pub-list">
+  
 - **[TOSEM'26] From Exploration to Revelation: App-Level Context-Aware Deceptive Pattern Detection for Mobile Applications.** **Jieshan Chen\***, Zhen Wang, Jiamou Sun, Zhenchang Xing, Qinghua Lu, Qing Huang, Xiwei Xu, Liming Zhu. [Preprint](https://arxiv.org/abs/2411.18084)
 - **[TOCHI'25] Towards Human-AI Synergy in UI Design: Supporting Iterative Generation with LLMs.** Mingyue Yuan, **Jieshan Chen\***, Yongquan Hu, Sidong Feng, Mulong Xie, Gelareh Mohammadi, Zhenchang Xing, Aaron Quigley. [ACM](https://dl.acm.org/doi/10.1145/3773035) 
 - **[WWW'25] 50 Shades of Deceptive Patterns: A Unified Taxonomy, Multimodal Detection, and Security Implications.** 
@@ -110,6 +111,7 @@ Qing Huang, Zhenyu Wan, Zhenchang Xing, Changjing Wang, **Jieshan Chen**, Xiwei 
 - **[ICSE'20 🏆] Unblind Your Apps: Predicting Natural-Language Labels for Mobile GUI Components by Deep Learning.** <br />
 ***Jieshan Chen***, Chunyang Chen, Zhenchang Xing, Xiwei Xu, Liming Zhu, Guoqiang Li, and Jinshui Wang. 🏆 ACM SIGSOFT Distinguished Paper Award. [PDF](/files/ICSE2020-predictContent.pdf) · [Talk](https://www.youtube.com/watch?v=zoRu7UOXAeY&list=PLh7v-bsdypMGkREL9PPVczHtaVLlL4P5h&index=5) · [Code](https://github.com/chenjshnn/LabelDroid) · Acceptance Rate 20.9% (129/617)
 
+</div>
 
 \* means corresponding authors.
 
