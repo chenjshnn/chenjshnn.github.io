@@ -30,6 +30,7 @@ Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE,
 
 
 ### News {#news}
+- [2026-04] Our paper "From Exploration to Revelation: App-Level Context-Aware Deceptive Pattern Detection for Mobile Applications" is just accepted by TOSEM 2026. <br />
 - [2025-11] I just get promoted to be a senior research scientist at CSIRO's Data61. Cheers!  <br />
 - [2025-10] Our paper "Towards Human-AI Synergy in UI Design: Supporting Iterative Generation with LLMs" just get accepted by TOCHI.  <br />
 - [2025-07] Our International Workshop on Responsible AI Engineering ([RAIE2026@ICSE](https://conf.researchr.org/home/icse-2026/raie-2026#Call-for-Papers)) is accepted and will be co-located with ICSE2026. Welcome your submission!   <br />
@@ -72,6 +73,11 @@ Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE,
 ### Selected Publications {#publications}
 
 **Please see full the publication list in [Google Scholar](https://scholar.google.com/citations?user=slrzj8kAAAAJ)**
+
+
+**[TOSEM'2] From Exploration to Revelation: App-Level Context-Aware Deceptive Pattern Detection for Mobile Applications** <br />
+**Jieshan Chen\***, Zhen Wang, Jiamou Sun, Zhenchang Xing, Qinghua Lu, Qing Huang, Xiwei Xu, Liming Zhu. <br />
+[Preprint](https://dl.acm.org/doi/10.1145/3773035](https://arxiv.org/abs/2411.18084) 
 
 **[TOCHI'25] Towards Human-AI Synergy in UI Design: Supporting Iterative Generation with LLMs** <br />
 Mingyue Yuan, **Jieshan Chen\***, Yongquan Hu, Sidong Feng, Mulong Xie, Gelareh Mohammadi, Zhenchang Xing, Aaron Quigley  <br />
