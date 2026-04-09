@@ -77,14 +77,14 @@ Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE,
   
 1. **[TOSEM'26] From Exploration to Revelation: App-Level Context-Aware Deceptive Pattern Detection for Mobile Applications.** <u>Jieshan Chen</u>, Zhen Wang, Jiamou Sun, Zhenchang Xing, Qinghua Lu, Qing Huang, Xiwei Xu, Liming Zhu. [Preprint](https://arxiv.org/abs/2411.18084)· [GitHub](https://github.com/chenjshnn/AppRay)   <br />
 
-1. **[TOCHI'25] Towards Human-AI Synergy in UI Design: Supporting Iterative Generation with LLMs.** Mingyue Yuan, <u>Jieshan Chen\*</u>, Yongquan Hu, Sidong Feng, Mulong Xie, Gelareh Mohammadi, Zhenchang Xing, Aaron Quigley. [ACM](https://dl.acm.org/doi/10.1145/3773035)   <br />
+1. **[TOCHI'25] Towards Human-AI Synergy in UI Design: Supporting Iterative Generation with LLMs.** Mingyue Yuan, <u>Jieshan Chen*</u>, Yongquan Hu, Sidong Feng, Mulong Xie, Gelareh Mohammadi, Zhenchang Xing, Aaron Quigley. [ACM](https://dl.acm.org/doi/10.1145/3773035)   <br />
 
 1. **[WWW'25] 50 Shades of Deceptive Patterns: A Unified Taxonomy, Multimodal Detection, and Security Implications.** 
 Zewei Shi, Ruoxi Sun, <u>Jieshan Chen</u>, Jiamou Sun, Jason Xue, Yansong Gao, Feng Liu, Xingliang Yuan.
 [ACM](https://dl.acm.org/doi/abs/10.1145/3696410.3714593) · Acceptance rate: 19.8% (409/2062) - Oral
 
 1. **[ICSE'25] DesignRepair: Dual-Stream Design Guideline-Aware Frontend Repair with Large Language Models.** 
-Mingyue Yuan, <u>Jieshan Chen\*</u>, Zhenchang Xing, Aaron Quigley, Yuyu Luo, Gelareh Mohammadi, Qinghua Lu, Liming Zhu. 
+Mingyue Yuan, <u>Jieshan Chen*</u>, Zhenchang Xing, Aaron Quigley, Yuyu Luo, Gelareh Mohammadi, Qinghua Lu, Liming Zhu. 
 [IEEE/ACM](https://dl.acm.org/doi/10.1109/ICSE55347.2025.00109) · [Preprint](https://arxiv.org/pdf/2411.01606) · [GitHub](https://github.com/UGAIForge/DesignRepair2024) · Acceptance rate: 21.3% (245/1150)
 
 1. **[UIST'24] GPTVoiceTasker: Advancing Multi-step Mobile Task Efficiency Through Dynamic Interface Exploration and Learning.**
@@ -96,7 +96,7 @@ Jiamou Sun, <u>Jieshan Chen</u>, Zhenchang Xing, Qinghua Lu, Xiwei (Sherry) Xu, 
 [ACM](https://dl.acm.org/doi/10.1145/3597503.3639202) · [GitHub](https://github.com/anonymous-77400046/vulnerability_file_trace) · Acceptance rate: 22.3% (234/1051)
 
 1. **[TOSEM'23] Prompt Sapper: A LLM-Empowered Production Tool for Building AI Chains.** 
-Yu Cheng, <u>Jieshan Chen\*</u>, Qing Huang, Zhenchang Xing, Xiwei Xu, Qinghua Lu. 
+Yu Cheng, <u>Jieshan Chen*</u>, Qing Huang, Zhenchang Xing, Xiwei Xu, Qinghua Lu. 
 Nov 2023 · [ACM](https://dl.acm.org/doi/10.1145/3638247) · [Preprint](https://arxiv.org/pdf/2306.12028) · [Talk](https://www.youtube.com/watch?v=6QZW8WjYesI&lc=Ugyadp9ya26_0qr0g0p4AaABAg) · [Tool](https://www.aichain.online/)
 
 1. **[UIST'23] Unveiling the tricks: automated detection of dark pattern in mobile applications.** 
