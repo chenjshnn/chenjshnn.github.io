@@ -120,7 +120,7 @@ Qing Huang, Zhenyu Wan, Zhenchang Xing, Changjing Wang, **Jieshan Chen**, Xiwei 
 [PDF](/files/tosem2020-uisearch.pdf) · [Talk](https://www.youtube.com/watch?v=wF4VDrMpRdo) · [Code](https://github.com/chenjshnn/WAE)
  
 - **[🏆ICSE'20] Unblind Your Apps: Predicting Natural-Language Labels for Mobile GUI Components by Deep Learning.** <br />
-***Jieshan Chen***, Chunyang Chen, Zhenchang Xing, Xiwei Xu, Liming Zhu, Guoqiang Li, and Jinshui Wang. 🏆 ACM SIGSOFT Distinguished Paper Award. [PDF](/files/ICSE2020-predictContent.pdf) · [Talk](https://www.youtube.com/watch?v=zoRu7UOXAeY&list=PLh7v-bsdypMGkREL9PPVczHtaVLlL4P5h&index=5) · [Code](https://github.com/chenjshnn/LabelDroid) · Acceptance Rate 20.9% (129/617)
+***Jieshan Chen***, Chunyang Chen, Zhenchang Xing, Xiwei Xu, Liming Zhu, Guoqiang Li, and Jinshui Wang. ACM SIGSOFT Distinguished Paper Award. [PDF](/files/ICSE2020-predictContent.pdf) · [Talk](https://www.youtube.com/watch?v=zoRu7UOXAeY&list=PLh7v-bsdypMGkREL9PPVczHtaVLlL4P5h&index=5) · [Code](https://github.com/chenjshnn/LabelDroid) · Acceptance Rate 20.9% (129/617)
 
 
 \* means corresponding authors.
