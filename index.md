@@ -31,6 +31,8 @@ Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE,
 
 ### News {#news}
 - [2026-04] Our paper "From Exploration to Revelation: App-Level Context-Aware Deceptive Pattern Detection for Mobile Applications" is just accepted by TOSEM 2026. <br />
+- [2026-02] Invited to be a Program Committee at ICSE2027. <br />
+- [2026-01] Invited to be a Program Committee at ASE2026. <br />
 - [2025-11] I just get promoted to be a senior research scientist at CSIRO's Data61. Cheers!  <br />
 - [2025-10] Our paper "Towards Human-AI Synergy in UI Design: Supporting Iterative Generation with LLMs" just get accepted by TOCHI.  <br />
 - [2025-07] Our International Workshop on Responsible AI Engineering ([RAIE2026@ICSE](https://conf.researchr.org/home/icse-2026/raie-2026#Call-for-Papers)) is accepted and will be co-located with ICSE2026. Welcome your submission!   <br />
