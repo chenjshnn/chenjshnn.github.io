@@ -72,7 +72,7 @@ Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE,
 
 ### Selected Publications {#publications}
 
-**Please see full the publication list in [Google Scholar](https://scholar.google.com/citations?user=slrzj8kAAAAJ)**
+**Please see the full publication list in [Google Scholar](https://scholar.google.com/citations?user=slrzj8kAAAAJ)**
 
   
 1. **[TOSEM'26] From Exploration to Revelation: App-Level Context-Aware Deceptive Pattern Detection for Mobile Applications.** <br />
