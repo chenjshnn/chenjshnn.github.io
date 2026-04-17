@@ -79,7 +79,7 @@ Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE,
   
 1. **[TOSEM'26] From Exploration to Revelation: App-Level Context-Aware Deceptive Pattern Detection for Mobile Applications.** <br />
 <u>Jieshan Chen</u>, Zhen Wang, Jiamou Sun, Zhenchang Xing, Qinghua Lu, Qing Huang, Xiwei Xu, Liming Zhu. <br />
-[Preprint](https://arxiv.org/abs/2411.18084)· [GitHub](https://github.com/chenjshnn/AppRay)   <br />
+[Preprint](https://arxiv.org/abs/2411.18084)· [GitHub](https://github.com/chenjshnn/AppRay) · Just Accepted  <br />
 
 1. **[TOCHI'26] Towards Human-AI Synergy in UI Design: Supporting Iterative Generation with LLMs.** Mingyue Yuan, <u>Jieshan Chen*</u>, Yongquan Hu, Sidong Feng, Mulong Xie, Gelareh Mohammadi, Zhenchang Xing, Aaron Quigley.
 [ACM](https://dl.acm.org/doi/10.1145/3773035)   <br />
