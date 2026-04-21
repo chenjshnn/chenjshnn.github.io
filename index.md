@@ -133,6 +133,7 @@ ACM SIGSOFT Distinguished Paper Award. [PDF](/files/ICSE2020-predictContent.pdf)
 
 ### Service {#services}
 **Organising Committee** <br />
+· The International Conference on Software Architecture ([ICSA'27-Software Architecture Showcase in Practice Track](https://conf.researchr.org/track/icsa-2027/icsa-2027-software-architecture-showcase) Co-chair)
 · 4th International Workshop on Responsible AI Engineering  ([RAIE@ICSE2026, Organisation Co-Chair](https://conf.researchr.org/home/icse-2026/raie-2026#Call-for-Papers))
 · ACM Conference on Computer and Communications Security ([CCS’24 – LAMPS Workshop, Program Co-Chair](https://lamps-ccs.com/))
 
