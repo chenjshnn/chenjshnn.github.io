@@ -4,7 +4,7 @@ feature_text: |
   <image height="200dp" width="200dp" src="/files/avatar2.jpg" style="border-radius: 50%;" /> 
   ## Jieshan Chen 陈洁珊
   Research Scientist at CSIRO <br>
-  <span color="#f68140">&#9993;</span>  [Jieshan.Chen@data61.csiro.au](mailto:Jieshan.Chen@data61.csiro.au) · 
+  <span color="#f68140">&#9993;</span>  [Jieshan.Chen@csiro.au](mailto:Jieshan.Chen@csiro.au) · 
   <a  href="https://github.com/chenjshnn" color="#05BF85">GitHub</a> · 
   [Google Scholar](https://scholar.google.com/citations?user=slrzj8kAAAAJ&hl=en) · 
   [LinkedIn](https://www.linkedin.com/in/jieshan-chen-b27515161/) · 
@@ -14,7 +14,7 @@ excerpt: "I am currently a research scientist and UI intelligence team lead at C
 Specifically, through UI engineering, my work aims to (1) advance human–AI collaboration through mutual intent clarification and adaptive understanding in software GUI design generation; (2) democratise the use of complex and intelligent software and AI regardless of expertise and ability; and (3) govern manipulative behaviours in digital interfaces. " 
 ---
 
-Jieshan is currently a **senior research scientist** and **UI intelligence team lead** at **CSIRO's Data61**. She received her Ph.D. degree in computer science at Australian National University, where she was advised by Zhenchang Xing and Chunyang Chen.
+Jieshan is currently a **senior research scientist** and **UI intelligence team lead** at **CSIRO**. She received her Ph.D. degree in computer science at Australian National University, where she was advised by Zhenchang Xing and Chunyang Chen.
 
 She works at the intersection of **software engineering** and **human–computer interaction**, driven by a passion for solving real-world problems that meaningfully impact people’s everyday lives. Her research focuses on **software usability, UI engineering and Responsible AI**, with the long-term goal of creating intelligent software that co-evolves with people, understanding human intent, supporting collaboration, and ensuring transparency and trust. <br />
 
@@ -34,7 +34,7 @@ Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE,
 - [2026-04] Our paper "From Exploration to Revelation: App-Level Context-Aware Deceptive Pattern Detection for Mobile Applications" is accepted by TOSEM 2026. <br />
 - [2026-02] Invited to be a Program Committee at ICSE2027. <br />
 - [2026-01] Invited to be a Program Committee at ASE2026. <br />
-- [2025-11] I just get promoted to be a senior research scientist at CSIRO's Data61. Cheers!  <br />
+- [2025-11] I just get promoted to be a senior research scientist at CSIRO. Cheers!  <br />
 - [2025-10] Our paper "Towards Human-AI Synergy in UI Design: Supporting Iterative Generation with LLMs" just get accepted by TOCHI.  <br />
 - [2025-07] Our International Workshop on Responsible AI Engineering ([RAIE2026@ICSE](https://conf.researchr.org/home/icse-2026/raie-2026#Call-for-Papers)) is accepted and will be co-located with ICSE2026. Welcome your submission!   <br />
 - [2025-02] Invited as a PC Member for ASE 2025  <br />
@@ -67,7 +67,7 @@ Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE,
 - [2022-12-01] Selected as a Junior PC Member at MSR 2023  <br />
 - [2022-08-31] Gave a talk titled **"Understanding Fairness Issues in Machine Unlearning and Dark Pattern"** at [NIST Workshop on Mitigating AI Bias in Context](https://www.nccoe.nist.gov/get-involved/attend-events/workshop-mitigating-ai-bias-context)   <br />
 - [2022-07-08] Released a preprint version of our work **"Extracting Replayable Interactions from Videos of Mobile App Usage"**  <br />
-- [2022-01-10] Joined CSIRO's Data61 as a research scientist <br />
+- [2022-01-10] Joined CSIRO as a research scientist <br />
 - [2021-11-16] Our paper **"Towards Complete Icon Labeling in Mobile Applications"** accepted at [CHI 2022](https://chi2022.acm.org/) <br />
 - [2021-05-26] Presented our paper **"Wireframe-based UI Design Search through Image Autoencoder"** at ICSE 2021 <br />
 </details>
