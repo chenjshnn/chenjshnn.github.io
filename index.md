@@ -3,7 +3,7 @@ title: About me
 feature_text: |
   <image height="200dp" width="200dp" src="/files/avatar2.jpg" style="border-radius: 50%;" /> 
   ## Jieshan Chen 陈洁珊
-  Research Scientist at CSIRO <br>
+  Senior Research Scientist at CSIRO <br>
   <span color="#f68140">&#9993;</span>  [Jieshan.Chen@csiro.au](mailto:Jieshan.Chen@csiro.au) · 
   <a  href="https://github.com/chenjshnn" color="#05BF85">GitHub</a> · 
   [Google Scholar](https://scholar.google.com/citations?user=slrzj8kAAAAJ&hl=en) · 
