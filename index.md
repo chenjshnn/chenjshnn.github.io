@@ -30,7 +30,8 @@ Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE,
 
 
 ### News {#news}
-- [2026-04] Our paper "From Exploration to Revelation: App-Level Context-Aware Deceptive Pattern Detection for Mobile Applications" is just accepted by TOSEM 2026. <br />
+- [2026-06] Our paper "Confidence vs. Competence: Misalignment in Judgment and Performance for Agentic Software Repair" is just accepted by TOSEM 2026. <br />
+- [2026-04] Our paper "From Exploration to Revelation: App-Level Context-Aware Deceptive Pattern Detection for Mobile Applications" is accepted by TOSEM 2026. <br />
 - [2026-02] Invited to be a Program Committee at ICSE2027. <br />
 - [2026-01] Invited to be a Program Committee at ASE2026. <br />
 - [2025-11] I just get promoted to be a senior research scientist at CSIRO's Data61. Cheers!  <br />
@@ -76,6 +77,9 @@ Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE,
 
 **Please see the full publication list in [Google Scholar](https://scholar.google.com/citations?user=slrzj8kAAAAJ)**
 
+1. **[TOSEM'26] Confidence vs. Competence: Misalignment in Judgment and Performance for Agentic Software Repair** <br />
+Mingyue Yuan, <u>Jieshan Chen*</u>, Dehai Zhao, Gelareh Mohammadi, Yoshifumi Kitamura, Aaron Quigley, Qinghua Lu, Zhenchang Xing.  <br />
+To appear.
   
 1. **[TOSEM'26] From Exploration to Revelation: App-Level Context-Aware Deceptive Pattern Detection for Mobile Applications.** <br />
 <u>Jieshan Chen</u>, Zhen Wang, Jiamou Sun, Zhenchang Xing, Qinghua Lu, Qing Huang, Xiwei Xu, Liming Zhu. <br />
