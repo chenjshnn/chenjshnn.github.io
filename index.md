@@ -3,14 +3,14 @@ title: About me
 feature_text: |
   <image height="200dp" width="200dp" src="/files/avatar2.jpg" style="border-radius: 50%;" /> 
   ## Jieshan Chen 陈洁珊
-  Research Scientist at CSIRO's Data61 <br>
+  Research Scientist at CSIRO <br>
   <span color="#f68140">&#9993;</span>  [Jieshan.Chen@data61.csiro.au](mailto:Jieshan.Chen@data61.csiro.au) · 
   <a  href="https://github.com/chenjshnn" color="#05BF85">GitHub</a> · 
   [Google Scholar](https://scholar.google.com/citations?user=slrzj8kAAAAJ&hl=en) · 
   [LinkedIn](https://www.linkedin.com/in/jieshan-chen-b27515161/) · 
   [Twitter](https://twitter.com/jieshanchen_)
 feature_image: 
-excerpt: "I am currently a research scientist and UI intelligence team lead at CSIRO's Data61. Before joining Data61, I pursued my Ph.D. degree in computer science at Australian National University. My work lies in the fields of software engineering, deep learning, and human computer interaction. My main research topics are around **human-centred software engineering**, **software usability** and **UI engineering**. My long-term goal is to create intelligent software that co-evolves with people—understanding human intent, supporting collaboration, and ensuring transparency and trust.
+excerpt: "I am currently a research scientist and UI intelligence team lead at CSIRO. Before joining CSIRO, I obtained my Ph.D. degree in computer science at Australian National University. My work lies in the fields of software engineering, deep learning, and human computer interaction. My main research topics are around **human-centred software engineering**, **software usability** and **UI engineering**. My long-term goal is to create intelligent software that co-evolves with people—understanding human intent, supporting collaboration, and ensuring transparency and trust.
 Specifically, through UI engineering, my work aims to (1) advance human–AI collaboration through mutual intent clarification and adaptive understanding in software GUI design generation; (2) democratise the use of complex and intelligent software and AI regardless of expertise and ability; and (3) govern manipulative behaviours in digital interfaces. " 
 ---
 
