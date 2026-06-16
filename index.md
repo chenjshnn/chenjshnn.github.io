@@ -85,7 +85,8 @@ To appear.
 <u>Jieshan Chen</u>, Zhen Wang, Jiamou Sun, Zhenchang Xing, Qinghua Lu, Qing Huang, Xiwei Xu, Liming Zhu. <br />
 [ACM](https://dl.acm.org/doi/10.1145/3815579) · [Preprint](https://arxiv.org/abs/2411.18084)· [GitHub](https://github.com/chenjshnn/AppRay) <br />
 
-1. **[TOCHI'26] Towards Human-AI Synergy in UI Design: Supporting Iterative Generation with LLMs.** Mingyue Yuan, <u>Jieshan Chen*</u>, Yongquan Hu, Sidong Feng, Mulong Xie, Gelareh Mohammadi, Zhenchang Xing, Aaron Quigley.
+1. **[TOCHI'26] Towards Human-AI Synergy in UI Design: Supporting Iterative Generation with LLMs.**  <br />
+Mingyue Yuan, <u>Jieshan Chen*</u>, Yongquan Hu, Sidong Feng, Mulong Xie, Gelareh Mohammadi, Zhenchang Xing, Aaron Quigley.  <br />
 [ACM](https://dl.acm.org/doi/10.1145/3773035)   <br />
 
 1. **[WWW'25] 50 Shades of Deceptive Patterns: A Unified Taxonomy, Multimodal Detection, and Security Implications.**  <br />
