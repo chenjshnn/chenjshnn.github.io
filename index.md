@@ -25,7 +25,7 @@ Specifically, she is currently working on four research topics: <br />
 (4) **Agentic AI systems** (e.g. TOSEM26b)<br />
 
 
-Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE, ASE, UIST, CHI, TOSEM and TOCHI, and contanstly serves as PC members and reviewers for top-tier SE & HCI conferences and journals. She got one SIGSOFT Distinguished Paper Award at ICSE2020. Her research outcomes have been integrated into industrial tools adopted by major companies such as Apple and Alibaba, ultimately benefiting billions of end-users worldwide. See her [Google Scholar Page](https://scholar.google.com/citations?user=slrzj8kAAAAJ) for more details.
+Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE, ASE, UIST, CHI, TOSEM and TOCHI, and contanstly serves as PC members and reviewers for top-tier SE & HCI conferences and journals. She got one SIGSOFT Distinguished Paper Award at ICSE2020. Her research outcomes have been integrated into industrial tools adopted by major companies such as Apple and Alibaba, ultimately benefiting billions of end-users worldwide. See her [Google Scholar Page](https://scholar.google.com/citations?user=slrzj8kAAAAJ) for more details. 
 
 
 
@@ -79,7 +79,7 @@ Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE,
 
 1. **[TOSEM'26b] Confidence vs. Competence: Misalignment in Judgment and Performance for Agentic Software Repair** <br />
 Mingyue Yuan, <u>Jieshan Chen*</u>, Dehai Zhao, Gelareh Mohammadi, Yoshifumi Kitamura, Aaron Quigley, Qinghua Lu, Zhenchang Xing.  <br />
-To appear.
+[ACM](https://dl.acm.org/doi/10.1145/3822603) · [GitHub](https://github.com/Mingyue-eva/AgentCognitive) <br />
   
 1. **[TOSEM'26a] From Exploration to Revelation: App-Level Context-Aware Deceptive Pattern Detection for Mobile Applications.** <br />
 <u>Jieshan Chen</u>, Zhen Wang, Jiamou Sun, Zhenchang Xing, Qinghua Lu, Qing Huang, Xiwei Xu, Liming Zhu. <br />
