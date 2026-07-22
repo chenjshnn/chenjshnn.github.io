@@ -10,7 +10,7 @@ feature_text: |
   [LinkedIn](https://www.linkedin.com/in/jieshan-chen-b27515161/) · 
   [Twitter](https://twitter.com/jieshanchen_)
 feature_image: 
-excerpt: "I am currently a research scientist and UI intelligence team lead at CSIRO. Before joining CSIRO, I obtained my Ph.D. degree in computer science at Australian National University. My work lies in the fields of software engineering, deep learning, and human computer interaction. My main research topics are around **human-centred software engineering**, **software usability** and **UI engineering**. My long-term goal is to create intelligent software that co-evolves with people—understanding human intent, supporting collaboration, and ensuring transparency and trust.
+excerpt: "I am currently a senior research scientist and UI intelligence team lead at CSIRO. Before joining CSIRO, I obtained my Ph.D. degree in computer science at Australian National University. My work lies in the fields of software engineering, deep learning, and human computer interaction. My main research topics are around **human-centred software engineering**, **software usability** and **UI engineering**. My long-term goal is to create intelligent software that co-evolves with people—understanding human intent, supporting collaboration, and ensuring transparency and trust.
 Specifically, through UI engineering, my work aims to (1) advance human–AI collaboration through mutual intent clarification and adaptive understanding in software GUI design generation; (2) democratise the use of complex and intelligent software and AI regardless of expertise and ability; and (3) govern manipulative behaviours in digital interfaces. " 
 ---
 
@@ -19,18 +19,18 @@ Jieshan is currently a **senior research scientist** and **UI intelligence team 
 She works at the intersection of **software engineering** and **human–computer interaction**, driven by a passion for solving real-world problems that meaningfully impact people’s everyday lives. Her research focuses on **software usability, UI engineering and Responsible AI**, with the long-term goal of creating intelligent software that co-evolves with people, understanding human intent, supporting collaboration, and ensuring transparency and trust. <br />
 
 Specifically, she is currently working on four research topics: <br />
-(1) **GUI design generation and repair** (e.g., TOSEM20, TOCHI25, ICSE25); <br />
+(1) **GUI design generation and repair** (e.g., TOSEM20, TOCHI26, ICSE25); <br />
 (2) **Software and AI usability and accessibility** (e.g., ICSE20, FSE20, CHI22, UIST24, TOSEM23); <br />
-(3) **Deceptive pattern detection and prevention** (e.g., UIST23, WWW25); and  <br />
-(4) **Agentic AI systems**<br />
+(3) **Deceptive pattern detection and prevention** (e.g., UIST23, WWW25, TOSEM26a); and  <br />
+(4) **Agentic AI systems** (e.g. TOSEM26b)<br />
 
 
-Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE, ASE, UIST, CHI, TOSEM and TOCHI, and contanstly serves as PC members and reviewers for top-tier conferences and journal. She got one SIGSOFT Distinguished Paper Award at ICSE2020. Her research outcomes have been integrated into industrial tools adopted by major companies such as Apple and Alibaba, ultimately benefiting billions of end-users worldwide. See her [Google Scholar Page](https://scholar.google.com/citations?user=slrzj8kAAAAJ) for more details.
+Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE, ASE, UIST, CHI, TOSEM and TOCHI, and contanstly serves as PC members and reviewers for top-tier SE & HCI conferences and journals. She got one SIGSOFT Distinguished Paper Award at ICSE2020. Her research outcomes have been integrated into industrial tools adopted by major companies such as Apple and Alibaba, ultimately benefiting billions of end-users worldwide. See her [Google Scholar Page](https://scholar.google.com/citations?user=slrzj8kAAAAJ) for more details.
 
 
 
 ### News {#news}
-- [2026-06] Our paper "Confidence vs. Competence: Misalignment in Judgment and Performance for Agentic Software Repair" is just accepted by TOSEM 2026. <br />
+- [2026-06] Our paper "Confidence vs. Competence: Misalignment in Judgment and Performance for Agentic Software Repair" is accepted by TOSEM 2026. <br />
 - [2026-04] Our paper "From Exploration to Revelation: App-Level Context-Aware Deceptive Pattern Detection for Mobile Applications" is accepted by TOSEM 2026. <br />
 - [2026-02] Invited to be a Program Committee at ICSE2027. <br />
 - [2026-01] Invited to be a Program Committee at ASE2026. <br />
@@ -77,11 +77,11 @@ Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE,
 
 **Please see the full publication list in [Google Scholar](https://scholar.google.com/citations?user=slrzj8kAAAAJ)**
 
-1. **[TOSEM'26] Confidence vs. Competence: Misalignment in Judgment and Performance for Agentic Software Repair** <br />
+1. **[TOSEM'26b] Confidence vs. Competence: Misalignment in Judgment and Performance for Agentic Software Repair** <br />
 Mingyue Yuan, <u>Jieshan Chen*</u>, Dehai Zhao, Gelareh Mohammadi, Yoshifumi Kitamura, Aaron Quigley, Qinghua Lu, Zhenchang Xing.  <br />
 To appear.
   
-1. **[TOSEM'26] From Exploration to Revelation: App-Level Context-Aware Deceptive Pattern Detection for Mobile Applications.** <br />
+1. **[TOSEM'26a] From Exploration to Revelation: App-Level Context-Aware Deceptive Pattern Detection for Mobile Applications.** <br />
 <u>Jieshan Chen</u>, Zhen Wang, Jiamou Sun, Zhenchang Xing, Qinghua Lu, Qing Huang, Xiwei Xu, Liming Zhu. <br />
 [ACM](https://dl.acm.org/doi/10.1145/3815579) · [Preprint](https://arxiv.org/abs/2411.18084)· [GitHub](https://github.com/chenjshnn/AppRay) <br />
 
