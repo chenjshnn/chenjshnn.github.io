@@ -170,8 +170,9 @@ ACM SIGSOFT Distinguished Paper Award. [PDF](/files/ICSE2020-predictContent.pdf)
 · Information and Software Technology (IST Journal'21) <br />
 · The Mining Software Repositories (MSR'21)
 
+<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=z45qNgYaeoZ_SKeUHwxAi-j-Zj-7TZ_DbLPp-tnyj7I"></script>
 
-<a href="https://clustrmaps.com/site/1bnhz" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=0jSi742nBLW1zBplx2X6Hk-w2T5g-tjKJyF38nxa7fU&cl=ffffff"></a>
+<!-- <a href="https://clustrmaps.com/site/1bnhz" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=0jSi742nBLW1zBplx2X6Hk-w2T5g-tjKJyF38nxa7fU&cl=ffffff"></a> -->
 
 
 
