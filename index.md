@@ -30,6 +30,7 @@ Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE,
 
 
 ### News {#news}
+- [2026-10] Our paper"Analysis of architecture options for foundation-model-based agents: A taxonomy and decision model" is accepted by JSS 2026. Congrats to Helen! <br />
 - [2026-06] Our paper "Confidence vs. Competence: Misalignment in Judgment and Performance for Agentic Software Repair" is accepted by TOSEM 2026. <br />
 - [2026-04] Our paper "From Exploration to Revelation: App-Level Context-Aware Deceptive Pattern Detection for Mobile Applications" is accepted by TOSEM 2026. <br />
 - [2026-02] Invited to be a Program Committee at ICSE2027. <br />
@@ -77,9 +78,9 @@ Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE,
 
 **Please see the full publication list in [Google Scholar](https://scholar.google.com/citations?user=slrzj8kAAAAJ)**
 
-1. **[TOSEM'26b] Confidence vs. Competence: Misalignment in Judgment and Performance for Agentic Software Repair** <br />
-Mingyue Yuan, <u>Jieshan Chen*</u>, Dehai Zhao, Gelareh Mohammadi, Yoshifumi Kitamura, Aaron Quigley, Qinghua Lu, Zhenchang Xing.  <br />
-[ACM](https://dl.acm.org/doi/10.1145/3822603) · [GitHub](https://github.com/Mingyue-eva/AgentCognitive) <br />
+1. **[JSS'26] A Taxonomy of Architecture Options for Foundation Model-Based Agents: Analysis and Decision Model** <br />
+Jingwen Zhou, Qinghua Lu, <u>Jieshan Chen*</u>, Liming Zhu, Xiwei Xu, Zhenchang Xing, Stefan Harrer. <br />
+[ScienceDirect](https://doi.org/10.1016/j.jss.2026.113109) <br />
   
 1. **[TOSEM'26a] From Exploration to Revelation: App-Level Context-Aware Deceptive Pattern Detection for Mobile Applications.** <br />
 <u>Jieshan Chen</u>, Zhen Wang, Jiamou Sun, Zhenchang Xing, Qinghua Lu, Qing Huang, Xiwei Xu, Liming Zhu. <br />
@@ -138,9 +139,12 @@ ACM SIGSOFT Distinguished Paper Award. [PDF](/files/ICSE2020-predictContent.pdf)
 
 ### Service {#services}
 **Organising Committee** <br />
+· SIGSOFT Winter School on LLM Software Development 2026  <br />
+· The 6th International Workshop on Software Architecture and Machine Learning (SAML@ICSA2027) <br />
+· The 1st Workshop on Harness Engineering for Generative UI (Harness4GenUI@ASE2026) <br />
 · The International Conference on Software Architecture ([ICSA'27-Software Architecture Showcase Track, Co-chair](https://conf.researchr.org/track/icsa-2027/icsa-2027-software-architecture-showcase))  <br />
-· 4th International Workshop on Responsible AI Engineering  ([RAIE@ICSE2026, Organisation Co-Chair](https://conf.researchr.org/home/icse-2026/raie-2026#Call-for-Papers))  <br />
-· ACM Conference on Computer and Communications Security ([CCS’24 – LAMPS Workshop, Program Co-Chair](https://lamps-ccs.com/))  <br />
+· The 4th International Workshop on Responsible AI Engineering  ([RAIE@ICSE2026, Organisation Co-Chair](https://conf.researchr.org/home/icse-2026/raie-2026#Call-for-Papers))  <br />
+· ACM Workshop on Large AI Systems and Models with Privacy and Safety Analysis ([LAMPS@CCS2024, LAMPS@CCS2025, Program Co-Chair](https://lamps-ccs.com/))  <br />
 
 **Program Committee** <br />
 · International Conference on Software Engineering ([ICSE'25](https://conf.researchr.org/track/icse-2025/icse-2025-research-track), ICSE'26, ICSE'27) <br />
