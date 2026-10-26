@@ -43,13 +43,13 @@ Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE,
 <summary><a> > 2025 </a></summary>
 - [2025-11] I just get promoted to be a senior research scientist at CSIRO. Cheers!  <br />
 - [2025-10] Our paper "Towards Human-AI Synergy in UI Design: Supporting Iterative Generation with LLMs" just get accepted by TOCHI.  <br />
-- [2025-07] Our International Workshop on Responsible AI Engineering ([RAIE2026@ICSE](https://conf.researchr.org/home/icse-2026/raie-2026#Call-for-Papers)) is accepted and will be co-located with ICSE2026. Welcome your submission!   <br />
+- [2025-07] Our International Workshop on Responsible AI Engineering ([RAIE2026@ICSE](https://conf.researchr.org/home/icse-2026/raie-2026#Call-for-Papers)) is accepted and will be co-located with ICSE2026. Welcome to your submission!   <br />
 - [2025-02] Invited as a PC Member for ASE 2025  <br />
 - [2025-01-20] Two papers accepted at [WWW'2025](https://www2025.thewebconf.org/)  <br />
 </details>
- 
+
 <details>
-<summary><a> > 2024 </a></summary>
+<summary><a> > 2024 and before </a></summary>
 - [2024-12] Invited as a PC Member for ICSE 2026  <br />
 - [2024-12-16] Gave a guest lecture on software usability and accessibility at TUM  <br />
 - [2024-12-09] Gave a keynote titled "Empowering Users to Detect and Prevent Cyber Threat Through UI Awareness" at [ICDM 2024 - ML4Cyber workshop](https://ml4cyber.github.io/24/)  <br />
@@ -58,20 +58,12 @@ Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE,
 - [2024-07] One paper accepted at UIST 2024.  <br />
 - [2024-06] Two papers accepted at TOSEM 2024  <br />
 - [2024-06-14] Call for paper for CCS'24 LAMPS Workshop (https://lamps-ccs.com/)!  <br />
-</details>
-
-<details>
-<summary><a> > 2023 </a></summary>
 - [2023-12] Our paper "Where is it? Tracing the Vulnerability-relevant Files from Vulnerability Reports" is accepted by ICSE'2024!  <br />
 - [2023-12-05] Our paper "Prompt Sapper: A LLM-Empowered Production Tool for Building AI Chains" is accepted by TOSEM 2023!  <br />
 - [2023-11] Invited as a PC Member for ICSE 2025  <br />
 - [2023-08-05] Our paper "Unveiling the tricks: automated detection of dark pattern in mobile applications" is accepted by [UIST 2023](https://uist.acm.org/2023/)  <br />
 - [2023-07] Invited as a PC Member for SANER 2024  <br />
 - [2023-05] Invited as a PC Member for ASE 2023  <br />
-</details>
-
-<details>
-<summary><a> > 2022 and before </a></summary>
 - [2022-12-01] Selected as a Junior PC Member at MSR 2023  <br />
 - [2022-08-31] Gave a talk titled **"Understanding Fairness Issues in Machine Unlearning and Dark Pattern"** at [NIST Workshop on Mitigating AI Bias in Context](https://www.nccoe.nist.gov/get-involved/attend-events/workshop-mitigating-ai-bias-context)   <br />
 - [2022-07-08] Released a preprint version of our work **"Extracting Replayable Interactions from Videos of Mobile App Usage"**  <br />
