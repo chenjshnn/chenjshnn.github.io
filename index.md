@@ -30,17 +30,24 @@ Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE,
 
 
 ### News {#news}
+- [2026-10-21] Gave a talk on "When User Interfaces Work Against Users: Detecting Dark Patterns from Screen to Interactions and Beyond" at ([TUM-IAS Scientists Meets Scientists](https://www.ias.tum.de/ias/news-events-insights/events/events-single-view/article/scientists-meet-scientists-tum-ias-wednesday-coffee-talk-by-tum-ias-fellow-dr-jieshan-chen-on-when-user-interfaces-work-against-users-detecting-dark-patterns-from-screens-to-interactions-and-beyond/)) event /> <br />
+- [2026-10] Successfully organised ([SIGSOFT Winter School on LLM Software Developent](https://llmsoftwaredev.github.io/2026/)) and ([Harness4GenUI@ASE workshop](https://conf.researchr.org/home/ase-2026/harness4genui-2026#program) at Munich, Germany! Both events attract over 45 participants! Thanks for all co-organisers, keynote speakers, authors and participants!   <br />
 - [2026-10] Our paper"Analysis of architecture options for foundation-model-based agents: A taxonomy and decision model" is accepted by JSS 2026. Congrats to Helen! <br />
 - [2026-06] Our paper "Confidence vs. Competence: Misalignment in Judgment and Performance for Agentic Software Repair" is accepted by TOSEM 2026. <br />
 - [2026-04] Our paper "From Exploration to Revelation: App-Level Context-Aware Deceptive Pattern Detection for Mobile Applications" is accepted by TOSEM 2026. <br />
 - [2026-02] Invited to be a Program Committee at ICSE2027. <br />
 - [2026-01] Invited to be a Program Committee at ASE2026. <br />
+
+
+<details>
+<summary><a> > 2025 </a></summary>
 - [2025-11] I just get promoted to be a senior research scientist at CSIRO. Cheers!  <br />
 - [2025-10] Our paper "Towards Human-AI Synergy in UI Design: Supporting Iterative Generation with LLMs" just get accepted by TOCHI.  <br />
 - [2025-07] Our International Workshop on Responsible AI Engineering ([RAIE2026@ICSE](https://conf.researchr.org/home/icse-2026/raie-2026#Call-for-Papers)) is accepted and will be co-located with ICSE2026. Welcome your submission!   <br />
 - [2025-02] Invited as a PC Member for ASE 2025  <br />
 - [2025-01-20] Two papers accepted at [WWW'2025](https://www2025.thewebconf.org/)  <br />
-
+</details>
+ 
 <details>
 <summary><a> > 2024 </a></summary>
 - [2024-12] Invited as a PC Member for ICSE 2026  <br />
@@ -81,7 +88,11 @@ Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE,
 1. **[JSS'26] A Taxonomy of Architecture Options for Foundation Model-Based Agents: Analysis and Decision Model** <br />
 Jingwen Zhou, Qinghua Lu, <u>Jieshan Chen*</u>, Liming Zhu, Xiwei Xu, Zhenchang Xing, Stefan Harrer. <br />
 [ScienceDirect](https://doi.org/10.1016/j.jss.2026.113109) <br />
-  
+
+1. **[TOSEM'26] Confidence vs. Competence: Misalignment in Judgment and Performance for Agentic Software Repair.**  <br />
+Mingyue Yuan, <u>Jieshan Chen*</u>, Dehai Zhao, Gelareh Mohammadi, Yoshifumi Kitamura, Aaron Quigley, Qinghua Lu, Zhenchang Xing.  <br />
+[ACM](https://dl.acm.org/doi/10.1145/3822603) · [GitHub](https://github.com/Mingyue-eva/AgentCognitive) <br />
+
 1. **[TOSEM'26a] From Exploration to Revelation: App-Level Context-Aware Deceptive Pattern Detection for Mobile Applications.** <br />
 <u>Jieshan Chen</u>, Zhen Wang, Jiamou Sun, Zhenchang Xing, Qinghua Lu, Qing Huang, Xiwei Xu, Liming Zhu. <br />
 [ACM](https://dl.acm.org/doi/10.1145/3815579) · [Preprint](https://arxiv.org/abs/2411.18084)· [GitHub](https://github.com/chenjshnn/AppRay) <br />
