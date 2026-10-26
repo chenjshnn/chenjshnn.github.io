@@ -30,11 +30,11 @@ Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE,
 
 
 ### News {#news}
-- [2026-10-21] Gave a talk on "When User Interfaces Work Against Users: Detecting Dark Patterns from Screen to Interactions and Beyond" at ([TUM-IAS Scientists Meets Scientists](https://www.ias.tum.de/ias/news-events-insights/events/events-single-view/article/scientists-meet-scientists-tum-ias-wednesday-coffee-talk-by-tum-ias-fellow-dr-jieshan-chen-on-when-user-interfaces-work-against-users-detecting-dark-patterns-from-screens-to-interactions-and-beyond/)) event /> <br />
-- [2026-10] Successfully organised ([SIGSOFT Winter School on LLM Software Developent](https://llmsoftwaredev.github.io/2026/)) and ([Harness4GenUI@ASE workshop](https://conf.researchr.org/home/ase-2026/harness4genui-2026#program) at Munich, Germany! Both events attract over 45 participants! Thanks for all co-organisers, keynote speakers, authors and participants!   <br />
-- [2026-10] Our paper"Analysis of architecture options for foundation-model-based agents: A taxonomy and decision model" is accepted by JSS 2026. Congrats to Helen! <br />
-- [2026-06] Our paper "Confidence vs. Competence: Misalignment in Judgment and Performance for Agentic Software Repair" is accepted by TOSEM 2026. <br />
-- [2026-04] Our paper "From Exploration to Revelation: App-Level Context-Aware Deceptive Pattern Detection for Mobile Applications" is accepted by TOSEM 2026. <br />
+- [2026-10-21] Gave a talk on "**When User Interfaces Work Against Users: Detecting Dark Patterns from Screen to Interactions and Beyond**" at [TUM-IAS Scientists Meets Scientists](https://www.ias.tum.de/ias/news-events-insights/events/events-single-view/article/scientists-meet-scientists-tum-ias-wednesday-coffee-talk-by-tum-ias-fellow-dr-jieshan-chen-on-when-user-interfaces-work-against-users-detecting-dark-patterns-from-screens-to-interactions-and-beyond/) event. <br />
+- [2026-10] Successfully organised [**SIGSOFT Winter School on LLM Software Developent**](https://llmsoftwaredev.github.io/2026/) and [**Harness4GenUI@ASE workshop**](https://conf.researchr.org/home/ase-2026/harness4genui-2026#program) at Munich, Germany! Both events attract over 45 participants! Thanks for all co-organisers, keynote speakers, authors and participants!   <br />
+- [2026-10] Our paper "**Analysis of architecture options for foundation-model-based agents: A taxonomy and decision model**" is accepted by JSS 2026. Congrats to Helen! <br />
+- [2026-06] Our paper "**Confidence vs. Competence: Misalignment in Judgment and Performance for Agentic Software Repair**" is accepted by TOSEM 2026. <br />
+- [2026-04] Our paper "**From Exploration to Revelation: App-Level Context-Aware Deceptive Pattern Detection for Mobile Applications**" is accepted by TOSEM 2026. <br />
 - [2026-02] Invited to be a Program Committee at ICSE2027. <br />
 - [2026-01] Invited to be a Program Committee at ASE2026. <br />
 
