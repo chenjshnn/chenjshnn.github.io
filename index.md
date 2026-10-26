@@ -45,7 +45,7 @@ Jieshan has published papers at top-tier CORE A*/R1 venues, including ICSE, FSE,
 - [2025-10] Our paper "Towards Human-AI Synergy in UI Design: Supporting Iterative Generation with LLMs" just get accepted by TOCHI.  <br />
 - [2025-07] Our International Workshop on Responsible AI Engineering ([RAIE2026@ICSE](https://conf.researchr.org/home/icse-2026/raie-2026#Call-for-Papers)) is accepted and will be co-located with ICSE2026. Welcome to your submission!   <br />
 - [2025-02] Invited as a PC Member for ASE 2025  <br />
-- [2025-01] Three papers accepted at [WWW'2025](https://www2025.thewebconf.org/)  <br />
+- [2025-01] Two papers accepted at [WWW'2025](https://www2025.thewebconf.org/)  <br />
 </details>
 
 <details>
